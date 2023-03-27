@@ -1,11 +1,11 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Brian H. Park
+description: Ph.D. Candidate at Cornell University 
+keywords: Brian Park, Hyunwook Park
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Brian H. Park is a Ph.D. Candidate at the Charles H. Dyson School of Applied Economics and Management at Cornell University. As an applied microeconomist, his research interests lie in the intersection of environmental and demographic economics.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
