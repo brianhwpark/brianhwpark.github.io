@@ -14,18 +14,17 @@ Brian H. Park is a Ph.D. Candidate at the Charles H. Dyson School of Applied Eco
 
 
 <div class="container">
-<h4><a name="contact"></a>Contact</h4>
+<h4><a name="contact"></a>About</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Brian H. Park is a Ph.D. Candidate at the Charles H. Dyson School of Applied Economics and Management at Cornell University. As an applied microeconomist, his research interests lie in the intersection of environmental and demographic economics.
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+        <a href="../assets/JM_BrianPark_Resized.png">
+            <img src="../assets/JM_BrianPark_Resized.png"
+                  title="BrianPark" alt="BrianPark"/></a>
         </div>
     </div>
 </div>
