@@ -17,11 +17,11 @@ Brian H. Park is a Ph.D. Candidate at the Charles H. Dyson School of Applied Eco
 <h4><a name="contact"></a>About</h4>
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span9">
             Brian H. Park is a Ph.D. Candidate at the Charles H. Dyson School of Applied Economics and Management at Cornell University. As an applied microeconomist, his research interests lie in the intersection of environmental and demographic economics.
         </div>
 
-        <div class="span2">
+        <div class="span3">
         <a href="../assets/JM_BrianPark_Resized.png">
             <img src="../assets/JM_BrianPark_Resized.png"
                   title="BrianPark" alt="BrianPark"/></a>
