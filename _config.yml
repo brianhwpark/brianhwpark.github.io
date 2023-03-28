@@ -64,7 +64,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "images/bio-2022.png"
+og_image                 : 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Brian H. Park"
-  avatar           : "images/bio-2022.png"
+  avatar           : images/bio-2022.png
   bio              : "Ph.D. Candidate"
   location         :
   employer         :
