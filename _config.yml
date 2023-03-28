@@ -85,8 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Brian H. Park"
-  og_image                 : "images/bio-2022.png"
-  avatar           : 
+  avatar           : "images/bio-2022.png"
   bio              : "Ph.D. Candidate"
   location         :
   employer         :
