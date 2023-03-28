@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Conferences"
-permalink: /conferences/
+permalink: /talks/
 author_profile: true
 
 #<sup>*</sup> Equal authorship  ADD AT END IF EQUAL AUTHORSHIP
