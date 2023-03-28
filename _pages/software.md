@@ -1,6 +1,7 @@
 ---
 permalink: /software/
 title: "Software"
+sitemap: false
 gallery:
   - url: software/table.png
     image_path: software/table.png
