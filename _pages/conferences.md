@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Conferences"
+permalink: /conferences/
+author_profile: true
+
+#<sup>*</sup> Equal authorship  ADD AT END IF EQUAL AUTHORSHIP
+---
+
+## Conferences
+- Cornell University AEP Seminar (Dec 9, 2022)
+- AERE 2022 Summer Conference (Jun 2, 2022)
+- PAA 2021 Annual Meeting (Oct 7, 2021)
