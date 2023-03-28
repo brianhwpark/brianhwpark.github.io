@@ -1,12 +1,12 @@
 ---
-# title:
+title: "2022"
 collection: talks
 permalink: /talks/2022-AERE-summer-conference
-date: 2022-06-01
+date: 2022-01-01
 venue: 'Association of Environmental and Resource Economists'
 paperurl: #'/files/pdf/research/2022-rethinking-border-enforcement.pdf'
-link: 'https://www.aere.org/aere-2022-summer-conference'
+link: #'https://www.aere.org/aere-2022-summer-conference'
 code: #'https://doi.org/10.7910/DVN/VUY8UI' If Data/Code is Public, Link Here
 github: #'https://github.com/jayrobwilliams/Peace-Agreement-Strength' If in GitHub, Link Here
-citation: 'AERE 2022 Summer Conference'
+citation: 'AERE 2022 Summer Conference, Cornell University'
 ---
