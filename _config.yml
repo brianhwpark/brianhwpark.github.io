@@ -87,8 +87,8 @@ author:
   name             : "Brian H. Park"
   avatar           : "bio-2022.png"
   bio              : "Ph.D. Candidate"
-  location         :
-  employer         :
+  location         : "Ithaca, NY"
+  employer         : "Cornell University"
   pubmed           :
   orcid            : "http://orcid.org/0000-0003-4222-8647"
   googlescholar    : "https://scholar.google.com/citations?user=97WC7VsAAAAJ&hl"
@@ -108,7 +108,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "brianhwpark"
+  linkedin         : #"brianhwpark"
   mastodon         : 
   pinterest        :
   soundcloud       :

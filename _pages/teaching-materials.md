@@ -12,7 +12,6 @@ header:
 ---
 
 ## ECON TBD: COURSE TBD
-- [Slide #1](/files/pdf/teaching-materials/ECONTBD_Placeholder.pdf)
-- [Slide #2](/files/pdf/teaching-materials/ECONTBD_Placeholder.pdf)
+- [Slide](/files/pdf/teaching-materials/ECONTBD_Placeholder.pdf)
 - [Problem Set #1](/files/pdf/teaching-materials/ECONTBD_Placeholder.pdf)
   - [Answer Key #1](/files/pdf/teaching-materials/ECONTBD_Placeholder.pdf)
