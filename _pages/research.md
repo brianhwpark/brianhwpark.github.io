@@ -1,14 +1,15 @@
 ---
+permalink: /Research/
 title: "Research"
-permalink: /research/
-author_profile: true
-header:
+header: 
   og_image: "research/placeholder_research.png"
+
+
+# ## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Poli 891: Machine Learning
+#{: #machine-learning }
+#- [Artificial Neural Networks](/files/html/teaching-materials/Artificial Neural Networks)
+
 ---
-
-Statement on Research Here
-
-<nbsp>
 
 - [Minimum Temperature and Human Fertility](/files/pdf/reseach/working-paper.pdf)
 <!--  - [Data](/data/research/working-paper.pdf) -->
