@@ -9,8 +9,6 @@ author_profile: true
 
 <!--<h2>Pages</h2>-->
 {% for post in site.pages %}
-  {% exclude 404.md %}
-  {% exclude sitemap.md %}
   {% include archive-single.html %}
 {% endfor %}
 
