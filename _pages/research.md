@@ -11,10 +11,7 @@ Statement on Research Here
 
 <nbsp>
 
-{% include base_path %}
-
-{% assign ordered_pages = site.research | sort:"order_number" %}
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+- [Minimum Temperature and Human Fertility](/files/pdf/reseach/working-paper.pdf)
+<!--  - [Data](/data/research/working-paper.pdf) -->
+- [Climate Change as a Determinant of Migrant Family Reunification](/files/pdf/reseach/working-paper.pdf)
+- [Household Job Stability, Public Childcare, and Fertility Decisions](/files/pdf/reseach/working-paper.pdf)
