@@ -3,7 +3,6 @@ layout: archive
 title: "Conferences and Workshops"
 permalink: /talks/
 author_profile: true
-
 #<sup>*</sup> Equal authorship  ADD AT END IF EQUAL AUTHORSHIP
 ---
 

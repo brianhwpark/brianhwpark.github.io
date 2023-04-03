@@ -10,7 +10,7 @@ header:
 The following is a selection of my ongoing research projects.
 
 ## Work in Progress
-- [Minimum Temperature and Human Fertility](/files/pdf/reseach/working-paper.pdf)
+- [Minimum Temperature and Human Fertility](/files/pdf/research/working-paper.pdf)
 <!--  - [Data](/data/research/working-paper.pdf) -->
-- [Climate Change as a Determinant of Migrant Family Reunification](/files/pdf/reseach/working-paper.pdf)
-- [Household Job Stability, Public Childcare, and Fertility Decisions](/files/pdf/reseach/working-paper.pdf)
+- [Climate Change as a Determinant of Migrant Family Reunification](/files/pdf/research/working-paper.pdf)
+- [Household Job Stability, Public Childcare, and Fertility Decisions](/files/pdf/research/working-paper.pdf)
