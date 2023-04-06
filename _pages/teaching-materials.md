@@ -10,6 +10,7 @@ header:
 #- [Artificial Neural Networks](/files/html/teaching-materials/Artificial Neural Networks)
 
 ---
+The links currently links to placeholder files.
 
 ## ECON TBD: COURSE TBD
 - [Slide](/files/pdf/teaching-materials/ECONTBD_Placeholder.pdf)

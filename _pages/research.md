@@ -8,6 +8,7 @@ header:
 ---
 
 The following is a selection of my ongoing research projects.
+The links currently links to placeholder files.
 
 ## Work in Progress
 - [Minimum Temperature and Human Fertility](/files/pdf/research/working-paper.pdf)

@@ -5,6 +5,8 @@ title: "Teaching"
 
 Statement on Teaching Here
 
+The links currently links to placeholder files.
+
 My teaching portfolio is available [here](/files/pdf/teaching/Portfolio.pdf).
 
 A selection of my teaching material is available [here](/teaching-materials).
