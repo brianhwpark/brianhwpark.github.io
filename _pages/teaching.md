@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Statement on Teaching Here
+THIS PAGE IS CURRENTLY UNDER CONSTRUCTION
 
 The links currently links to placeholder files.
 
