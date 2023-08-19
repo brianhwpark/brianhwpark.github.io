@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Brian H. Park"
 title_separator          : "-"
 name                     : &name "Brian H. Park"
-description              : &description "Ph.D. Candidate"
+description              : &description "Assistant Professor"
 url                      : https://brianhwpark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "brianhwpark/brianhwpark.github.io"
@@ -86,13 +86,13 @@ analytics:
 author:
   name             : "Brian H. Park"
   avatar           : "bio-2022.png"
-  bio              : "Ph.D. Candidate"
-  location         : "Ithaca, NY"
-  employer         : "Cornell University"
+  bio              : "Assistant Professor"
+  location         : "Monmouth, IL"
+  employer         : "Monmouth College"
   pubmed           :
   orcid            : "http://orcid.org/0000-0003-4222-8647"
   googlescholar    : "https://scholar.google.com/citations?user=97WC7VsAAAAJ&hl"
-  email            : "hp429@cornell.edu"
+  email            : "BPARK@monmouthcollege.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
