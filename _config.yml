@@ -258,7 +258,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _ECON300
+  # _monmouth-econ-300
   - scope:
       path: ""
       type: monmouth-econ-300
@@ -267,7 +267,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _teaching-material
+  # _monmouth-busi-201
   - scope:
       path: ""
       type: monmouth-busi-201

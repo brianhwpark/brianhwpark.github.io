@@ -1,6 +1,6 @@
 ---
-permalink: /teaching-material/
-title: "Teaching Material"
+permalink: /monmouth-econ-300/
+title: "Intermediate Price Theory"
 header: 
   og_image: "teaching/placeholder_teaching.png"
 
@@ -10,12 +10,12 @@ header:
 #- [Artificial Neural Networks](/files/html/teaching-material/Artificial Neural Networks)
 
 ---
-The following is a collection of the teaching material used in my instruction.
-
-## ECON 300: Intermediate Price Theory
+## Syllabus: Fall 2023
 - [Syllabus](/files/pdf/teaching-material/monmouthcollege-econ-300/ECON300-F2023-Syllabus.pdf)
+
+## Lecture Notes: Fall 2023
+- [Lecture Note #01](/files/ppt/monmouthcollege-econ-300/ECON300-LEC01.pptx)
+
+## Homework: Fall 2023
 - [Problem Set #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
   - [Answer Key #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
-
-## BUSI 201: Business Data Analysis
-- [Syllabus](/files/pdf/teaching-material/monmouthcollege-busi-201/BUSI201-F2023-Syllabus.pdf)
