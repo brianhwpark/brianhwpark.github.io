@@ -10,3 +10,5 @@ redirect_from:
 <iframe src="/files/pdf/cv-brian-park-monmouth-2023.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 You can download a PDF copy of my CV [here](/files/pdf/cv-brian-park-monmouth-2023.pdf).
+
+<!-- To Update CV head to "navigation.yml" --!>

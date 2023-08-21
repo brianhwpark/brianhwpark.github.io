@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Brian H. Park"
   avatar           : "bio-2022.png"
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor of Economics"
   location         : "Monmouth, IL"
   employer         : "Monmouth College"
   pubmed           :
@@ -249,6 +249,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _teaching-material
+  - scope:
+      path: ""
+      type: teaching-material
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
