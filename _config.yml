@@ -258,6 +258,24 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _ECON300
+  - scope:
+      path: ""
+      type: monmouth-econ-300
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _teaching-material
+  - scope:
+      path: ""
+      type: monmouth-busi-201
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
