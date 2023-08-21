@@ -14,7 +14,7 @@ header:
 - [Syllabus](/files/pdf/teaching-material/monmouthcollege-econ-300/ECON300-F2023-Syllabus.pdf)
 
 ## Lecture Notes: Fall 2023
-- [Lecture Note #01](/files/ppt/monmouthcollege-econ-300/ECON300-LEC01.pptx)
+- [Lecture Note #01](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
 
 ## Homework: Fall 2023
 - [Problem Set #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
