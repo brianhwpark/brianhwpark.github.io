@@ -2,21 +2,11 @@
 permalink: /teaching/
 title: "Teaching"
 ---
-
-THIS PAGE IS CURRENTLY UNDER CONSTRUCTION
-
-The links currently links to placeholder files.
-
-My teaching portfolio is available [here](/files/pdf/teaching/Portfolio.pdf).
-
-A selection of my teaching material is available [here](/teaching-material).
+<!-- My teaching portfolio is available [here](/files/pdf/teaching/Portfolio.pdf). -->
 
 ## Monmouth College (Assistant Professor)
-- ECON 300: Intermediate Price Theory (Fall 2023)
-    - [Syllabus](/files/teaching-resources/monmouthcollege-econ-300/ECON300-F2023-Syllabus.pdf)
-- BUSI 201: Business Data Analysis (Fall 2023)
-    - [Syllabus](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-F2023-Syllabus.pdf)
-
+- [ECON 300](/monmouth-econ-300): Intermediate Price Theory (Fall 2023)
+- [BUSI 201](/monmouth-busi-201): Business Data Analysis (Fall 2023)
 
 ## Cornell University (Graduate Teaching Assistant)
 - AEM 2600: Managerial Economics (Fall 2019, Fall 2020, Fall 2021)

@@ -12,11 +12,11 @@ header:
 # - [Workbook #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
 #  - [Answer Key #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
 ---
-## Syllabus: Fall 2023
-- [Syllabus](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-F2023-Syllabus.pdf)
+## Syllabus
+- [Fall 2023](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-F2023-Syllabus.pdf)
 
-## Lecture Notes: Fall 2023
+## Lecture Notes
 - [Lecture Note #00](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC00.pptx)
 
-## Workbooks: Fall 2023
+## Workbooks
 - [Workbook #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
