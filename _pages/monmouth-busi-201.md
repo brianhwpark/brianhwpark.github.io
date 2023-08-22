@@ -9,13 +9,14 @@ header:
 #{: #machine-learning }
 #- [Artificial Neural Networks](/files/html/teaching-material/Artificial Neural Networks)
 
+# - [Workbook #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
+#  - [Answer Key #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
 ---
 ## Syllabus: Fall 2023
-- [Syllabus](/files/pdf/teaching-material/monmouthcollege-busi-201/BUSI201-F2023-Syllabus.pdf)
+- [Syllabus](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-F2023-Syllabus.pdf)
 
 ## Lecture Notes: Fall 2023
-- [Lecture Note #01 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
+- [Lecture Note #00](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC00.pptx)
 
-## Data: Fall 2023
-- [Problem Set #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
-  - [Answer Key #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
+## Workbooks: Fall 2023
+- [Workbook #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)

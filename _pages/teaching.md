@@ -13,9 +13,9 @@ A selection of my teaching material is available [here](/teaching-material).
 
 ## Monmouth College (Assistant Professor)
 - ECON 300: Intermediate Price Theory (Fall 2023)
-    - [Syllabus](/files/pdf/teaching-material/monmouthcollege-econ-300/ECON300-F2023-Syllabus.pdf)
+    - [Syllabus](/files/teaching-resources/monmouthcollege-econ-300/ECON300-F2023-Syllabus.pdf)
 - BUSI 201: Business Data Analysis (Fall 2023)
-    - [Syllabus](/files/pdf/teaching-material/monmouthcollege-busi-201/BUSI201-F2023-Syllabus.pdf)
+    - [Syllabus](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-F2023-Syllabus.pdf)
 
 
 ## Cornell University (Graduate Teaching Assistant)
