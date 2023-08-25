@@ -17,6 +17,7 @@ header:
 
 ## Lecture Notes
 - [Lecture Note #00](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC00.pptx): Introduction
+- [Lecture Note #01](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC01.pdf): Excel Basics Part 1
 
 ## Workbooks
-- [Workbook #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
+- [Workbook #1](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC01.xlsx): Workbook for LEC01
