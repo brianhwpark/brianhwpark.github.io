@@ -20,8 +20,8 @@ header:
 ## Handouts
 - [Handout #01](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H01.pdf): Systems of Equations and Exponents
 - [Handout #02](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H02.pdf): Slopes of Linear and Quadratic Functions
-- [Handout #03](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H03.pdf): Differentiation
-- Handout #04: Unconstrained Optimization
+- [Handout #03](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H03.pdf): Derivatives
+- Handout #04: Partial Derivatives and Optimization
 - Handout #05: Constrained Optimization
 
 ## Homework

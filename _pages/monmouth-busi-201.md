@@ -18,6 +18,8 @@ header:
 ## Lecture Notes
 - [Lecture Note #00](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC00.pptx): Introduction
 - [Lecture Note #01](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC01.pdf): Excel Basics Part 1
+- [Lecture Note #02](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC02.pdf): Excel Basics Part 2
 
 ## Workbooks
-- [Workbook #1](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC01.xlsx): Workbook for LEC01
+- [Workbook #1](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC01-Workbook.xlsx): Workbook for Lecture Note #01
+- [Workbook #2](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC02-Workbook.xlsx): Workbook for Lecture Note #02
