@@ -15,7 +15,8 @@ header:
 
 ## Slides
 - [Lecture Slide #00](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC00.pptx): Introduction
-- [Lecture Slide #01](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC01.pptx): Math Review
+- [Lecture Slide #01](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC01.pptx): Math Review Part 1
+- [Lecture Slide #02](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC02.pptx): Budget Constraints
 
 ## Handouts
 - [Handout #01](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H01.pdf): Systems of Equations and Exponents
