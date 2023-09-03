@@ -16,17 +16,17 @@ header:
 ## Slides
 - [Lecture Slide #00](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC00.pptx): Introduction
 - [Lecture Slide #01](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC01.pptx): Math Review Part 1
-- [Lecture Slide #02](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC02.pptx): Budget Constraints
-- [Lecture Slide #03](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC03.pptx): Preferences & Utility Functions
-- Lecture Slide #04: Indifference Curves (with Math Review Part 2)
+- [Lecture Slide #02 & #03](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC02-03.pptx): Budget Constraints
+- [Lecture Slide #04](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC04.pptx): Preferences & Utility Functions
+- Lecture Slide #05: Indifference Curves (with Math Review Part 2)
 
 ## Handouts
 - [Handout #01](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H01.pdf): Systems of Equations and Exponents
 - [Handout #02](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H02.pdf): Slopes of Linear and Quadratic Functions
 - [Handout #03](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H03.pdf): Derivatives
-- Handout #04: Partial Derivatives and Optimization
-- Handout #05: Constrained Optimization
+- Handout #04: Partial Derivatives
+- Handout #05: Optimization
 
-## Homework
-- [Problem Set #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
-  - [Answer Key #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
+## Past Quizzes
+- [Quiz #1 (Fall 2023, Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
+  - [Answer Key #1 (Fall 2023, Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)

@@ -16,7 +16,6 @@ header:
 - [Fall 2023](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-F2023-Syllabus.pdf)
 
 ## Lecture Notes
-- [Lecture Note #00](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC00.pptx): Introduction
 - [Lecture Note #01](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC01.pdf): Excel Basics Part 1
 - [Lecture Note #02](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC02.pdf): Excel Basics Part 2
 - [Lecture Note #03](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC03.pdf): Excel Basics Part 3
