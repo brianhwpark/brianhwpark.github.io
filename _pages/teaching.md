@@ -2,6 +2,8 @@
 permalink: /teaching/
 title: "Teaching"
 ---
+The following is a list of courses that I am teaching or have taught. Please click the course code of the course you wish to view in more detail.
+
 <!-- My teaching portfolio is available [here](/files/pdf/teaching/Portfolio.pdf). -->
 
 ## Monmouth College (Assistant Professor)
