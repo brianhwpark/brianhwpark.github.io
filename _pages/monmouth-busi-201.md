@@ -4,13 +4,9 @@ title: "Business Data Analysis"
 header: 
   og_image: "teaching/placeholder_teaching.png"
 
-
 # ## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Poli 891: Machine Learning
 #{: #machine-learning }
 #- [Artificial Neural Networks](/files/html/teaching-material/Artificial Neural Networks)
-
-# - [Workbook #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
-#  - [Answer Key #1 (Placeholder)](/files/pdf/teaching-material/ECONTBD_Placeholder.pdf)
 ---
 ## Syllabus
 - [Fall 2023](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-F2023-Syllabus.pdf)
@@ -29,3 +25,7 @@ header:
 - [Workbook #03](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC03-Workbook.xlsx): Workbook for Lecture Note #03
 - [Workbook #04](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC04-Workbook.xlsx): Workbook for Lecture Note #04
 - [Workbook #05](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC05-Workbook.xlsx): Workbook for Lecture Note #05
+
+## Quizzes
+- Quiz #1 (Fall 2023, Placeholder)
+  - Answer Key #1 (Fall 2023, Placeholder)
