@@ -27,5 +27,6 @@ header:
 - [Workbook #05](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC05-Workbook.xlsx): Workbook for Lecture Note #05
 
 ## Quizzes
-- Quiz #1 (Fall 2023, Placeholder)
-  - Answer Key #1 (Fall 2023, Placeholder)
+- [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01.pdf) 
+  - [Quiz Workbook #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01-Workbook.xlsx)
+  - [Answer Key #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01-Workbook-Sol.xlsx)
