@@ -34,5 +34,5 @@ header:
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q01.pdf): Budget Constraints
   - Answer Key #1 (Fall 2023)
-- Quiz #2 (Fall 2023): Preferences, Utility, and Indifference Curves
+- Quiz #2 (Fall 2023): Preferences, Utility, Optimization
   - Answer Key #2 (Fall 2023)
