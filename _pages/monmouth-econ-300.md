@@ -18,16 +18,18 @@ header:
 - [Lecture Slide #04](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC04.pptx): Preferences & Utility Functions
 - [Lecture Slide #05](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC05.pptx): Introduction to Indifference Curves
 - [Lecture Slide #06](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC06.pptx): Indifference Curves and Marginal Analysis
-- [Lecture Slide #07](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC07.pptx): Marginal Rate of Substitution and Various Utility Functions
-- [Lecture Slide #08](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC08.pptx): The Utility Maximization Problem
+- [Lecture Slide #07](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC07.pptx): Marginal Rate of Substitution and Families of Utility Functions
+- [Lecture Slide #08](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC08.pptx): The Utility Maximization Problem with Graphs
+- [Lecture Slide #09](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC09.pptx): The Utility Maximization Problem with Math
+- Lecture Slide #10: The Utility Maximization Problem to the Demand Curve
 
-## Mathematics Supplements
+## Math Supplements
 - [Handout #01](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H01.pdf): Systems of Equations and Exponents
 - [Handout #02](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H02.pdf): Slopes of Linear and Quadratic Functions
 - [Handout #03](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H03.pdf): Derivatives
 - [Handout #04](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H04.pdf): Partial Derivatives
-- Handout #05: Differentiation Cheat-Sheet
-- Handout #06: 
+- Handout #05: Cheat-Sheet for Derivatives
+- Handout #06: Optimization
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q01.pdf): Budget Constraints
