@@ -13,7 +13,7 @@ header:
 
 ## Lecture Slides
 - [Lecture Slide #00](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC00.pptx): Introduction
-- [Lecture Slide #01](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC01.pptx): Math Review Part 1
+- [Lecture Slide #01](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC01.pptx): Math Review
 - [Lecture Slide #02 & #03](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC02-03.pptx): Budget Constraints
 - [Lecture Slide #04](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC04.pptx): Preferences & Utility Functions
 - [Lecture Slide #05](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC05.pptx): Introduction to Indifference Curves
@@ -21,7 +21,7 @@ header:
 - [Lecture Slide #07](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC07.pptx): Marginal Rate of Substitution and Families of Utility Functions
 - [Lecture Slide #08](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC08.pptx): The Utility Maximization Problem with Graphs
 - [Lecture Slide #09](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC09.pptx): The Utility Maximization Problem with Math
-- Lecture Slide #10: The Utility Maximization Problem to the Demand Curve
+- [Lecture Slide #10](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC10.pptx): Special Cases in the Utility Maximization Problem
 
 ## Math Supplements
 - [Handout #01](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H01.pdf): Systems of Equations and Exponents
@@ -33,6 +33,6 @@ header:
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q01.pdf): Budget Constraints
-  - Answer Key #1 (Fall 2023)
+  - [Answer Key #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q01-RECAP.pptx)
 - Quiz #2 (Fall 2023): Preferences, Utility, Optimization
   - Answer Key #2 (Fall 2023)

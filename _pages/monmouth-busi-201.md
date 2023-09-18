@@ -28,6 +28,6 @@ header:
   - [Workbook #07](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC07-Workbook.xlsx)
 
 ## Quizzes
-- Quiz #1 (Fall 2023, Placeholder)
-  - Quiz Workbook #1 (Fall 2023, Placeholder)
+- [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01.pdf)
+  - [Quiz Workbook #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01-Workbook.xlsx)
   - Answer Key #1 (Fall 2023, Placeholder)
