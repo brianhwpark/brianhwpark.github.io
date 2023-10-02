@@ -22,7 +22,9 @@ header:
 - [Lecture Slide #08](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC08.pptx): The Utility Maximization Problem
 - [Lecture Slide #09](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC09.pptx): The UMP with Math
 - [Lecture Slide #10](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC10.pptx): Special Cases in the UMP
-- [Lecture Slide #11](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC11.pptx): Comparative Statics in the UMP Part 1
+- [Lecture Slide #11](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC11.pptx): Review of LEC01 to LEC10
+- [Lecture Slide #12](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC12.pptx): Comparative Statics in the UMP Part 1
+- [Lecture Slide #13](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC13.pptx): Comparative Statics in the UMP Part 2
 
 
 ## Math Supplements
@@ -30,7 +32,7 @@ header:
 - [Handout #02](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H02.pdf): Slopes of Linear and Quadratic Functions
 - [Handout #03](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H03.pdf): Derivatives
 - [Handout #04](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H04.pdf): Partial Derivatives
-- Handout #05: Cheat-Sheet for Derivatives
+- [Handout #05](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H05.pdf): Cheat-Sheet for Derivatives
 - Handout #06: Optimization
 
 ## Quizzes
