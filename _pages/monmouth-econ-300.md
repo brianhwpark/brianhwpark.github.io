@@ -23,20 +23,28 @@ header:
 - [Lecture Slide #09](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC09.pptx): The UMP with Math
 - [Lecture Slide #10](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC10.pptx): Special Cases in the UMP
 - [Lecture Slide #11](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC11.pptx): Review of LEC01 to LEC10
-- [Lecture Slide #12](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC12.pptx): Comparative Statics in the UMP Part 1
-- [Lecture Slide #13](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC13.pptx): Comparative Statics in the UMP Part 2
-
+- [Lecture Slide #12](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC12.pptx): Comparative Statics in the UMP: Income
+- [Lecture Slide #13](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC13.pptx): Comparative Statics in the UMP: Price(s)
+- [Lecture Slide #14](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC14.pptx): Comparative Statics in the UMP: Substitution Effects
+- Lecture Slide #15: Individual and Market Demand
 
 ## Math Supplements
-- [Handout #01](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H01.pdf): Systems of Equations and Exponents
-- [Handout #02](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H02.pdf): Slopes of Linear and Quadratic Functions
-- [Handout #03](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H03.pdf): Derivatives
-- [Handout #04](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H04.pdf): Partial Derivatives
-- [Handout #05](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H05.pdf): Cheat-Sheet for Derivatives
+- [Handout #1](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H01.pdf): Systems of Equations and Exponents
+- [Handout #2](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H02.pdf): Slopes of Linear and Quadratic Functions
+- [Handout #3](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H03.pdf): Derivatives
+- [Handout #4](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H04.pdf): Partial Derivatives
+- [Handout #5](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H05.pdf): Cheat-Sheet for Derivatives
 - Handout #06: Optimization
+
+## Problem Sets
+- [Problem Set #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS01.pdf)
+  - [Answer Key #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS01-Sol.pdf)
+- [Problem Set #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS02.pdf)
+  - [Answer Key #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS02-Sol.pdf)
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q01.pdf): Budget Constraints
   - [Answer Key #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q01-RECAP.pptx)
 - [Quiz #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q02.pdf): Preferences, Utility, UMP Intro
-  - Answer Key #2 (Fall 2023)
+  - [Answer Key #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q02-RECAP.pptx)
+- [Quiz #3 (Fall 2023, Placeholder)]: Utility Maximization and Comparative Statics

@@ -26,8 +26,12 @@ header:
   - [Workbook #06](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC06-Workbook.xlsx)
 - [Lecture Note #07](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC07.pdf): Excel Basics Part 7
   - [Workbook #07](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC07-Workbook.xlsx)
+- [Lecture Note & Workbook #08](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC08-Workbook.xlsx): Recap of Functions
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01.pdf)
   - [Quiz Workbook #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01-Workbook.xlsx)
-  - Answer Key #1 (Fall 2023, Placeholder)
+  - [Answer Key #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01-Workbook-sol.xlsx)
+- [Quiz #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q02.pdf)
+  - [Quiz Workbook #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q02-Workbook.xlsx)
+  - [Answer Key #2 (Placeholder)]
