@@ -27,6 +27,8 @@ header:
 - [Lecture Note #07](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC07.pdf): Excel Basics Part 7
   - [Workbook #07](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC07-Workbook.xlsx)
 - [Lecture Note & Workbook #08](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC08-Workbook.xlsx): Recap of Functions
+- [Lecture Note #09](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC09.pdf): Filters and Sorting
+  - [Workbook #09](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC09-Workbook.xlsx)
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01.pdf)

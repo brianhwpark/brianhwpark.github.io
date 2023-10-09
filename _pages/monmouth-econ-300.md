@@ -26,7 +26,7 @@ header:
 - [Lecture Slide #12](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC12.pptx): Comparative Statics in the UMP: Income
 - [Lecture Slide #13](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC13.pptx): Comparative Statics in the UMP: Price(s)
 - [Lecture Slide #14](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC14.pptx): Comparative Statics in the UMP: Substitution Effects
-- Lecture Slide #15: Individual and Market Demand
+- [Lecture Slide #15](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC15.pptx): Market Demand and Elasticities
 
 ## Math Supplements
 - [Handout #1](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H01.pdf): Systems of Equations and Exponents
@@ -34,7 +34,6 @@ header:
 - [Handout #3](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H03.pdf): Derivatives
 - [Handout #4](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H04.pdf): Partial Derivatives
 - [Handout #5](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H05.pdf): Cheat-Sheet for Derivatives
-- Handout #06: Optimization
 
 ## Problem Sets
 - [Problem Set #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS01.pdf)
