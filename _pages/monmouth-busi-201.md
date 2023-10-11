@@ -12,23 +12,16 @@ header:
 - [Fall 2023](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-F2023-Syllabus.pdf)
 
 ## Lecture Notes & Workbooks
-- [Lecture Note #01](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC01.pdf): Excel Basics Part 1
-  - [Workbook #01](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC01-Workbook.xlsx)
-- [Lecture Note #02](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC02.pdf): Excel Basics Part 2
-  - [Workbook #02](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC02-Workbook.xlsx)
-- [Lecture Note #03](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC03.pdf): Excel Basics Part 3
-  - [Workbook #03](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC03-Workbook.xlsx)
-- [Lecture Note #04](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC04.pdf): Excel Basics Part 4
-  - [Workbook #04](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC04-Workbook.xlsx)
-- [Lecture Note #05](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC05.pdf): Excel Basics Part 5
-  - [Workbook #05](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC05-Workbook.xlsx)
-- [Lecture Note #06](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC06.pdf): Excel Basics Part 6
-  - [Workbook #06](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC06-Workbook.xlsx)
-- [Lecture Note #07](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC07.pdf): Excel Basics Part 7
-  - [Workbook #07](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC07-Workbook.xlsx)
-- [Lecture Note & Workbook #08](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC08-Workbook.xlsx): Recap of Functions
-- [Lecture Note #09](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC09.pdf): Filters and Sorting
-  - [Workbook #09](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC09-Workbook.xlsx)
+- [Lecture Note #01](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC01.pdf) & [Workbook #01](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC01-Workbook.xlsx): Excel Basics Part 1
+- [Lecture Note #02](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC02.pdf) & [Workbook #02](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC02-Workbook.xlsx): Excel Basics Part 2
+- [Lecture Note #03](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC03.pdf) & [Workbook #03](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC03-Workbook.xlsx): Excel Basics Part 3
+- [Lecture Note #04](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC04.pdf) & [Workbook #04](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC04-Workbook.xlsx): Excel Basics Part 4
+- [Lecture Note #05](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC05.pdf) & [Workbook #05](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC05-Workbook.xlsx): Excel Basics Part 5
+- [Lecture Note #06](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC06.pdf) & [Workbook #06](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC06-Workbook.xlsx): Excel Basics Part 6
+- [Lecture Note #07](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC07.pdf) & [Workbook #07](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC07-Workbook.xlsx): Excel Basics Part 7
+- [Workbook #08](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC08-Workbook.xlsx): Review of Functions
+- [Lecture Note #09](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC09.pdf) & [Workbook #09](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC09-Workbook.xlsx): Filtering and Sorting
+- [Lecture Note #10](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC10.pdf) & [Workbook #10](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC10-Workbook.xlsx): Conditional Formatting
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01.pdf)

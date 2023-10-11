@@ -46,5 +46,5 @@ header:
   - [Answer Key #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q01-RECAP.pptx)
 - [Quiz #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q02.pdf): Preferences, Utility, UMP Intro
   - [Answer Key #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q02-RECAP.pptx)
-- [Quiz #3 (Fall 2023, Placeholder)]: Utility Maximization and Comparative Statics
+- Quiz #3 (Fall 2023, Placeholder): Utility Maximization and Comparative Statics
   - Answer Key #3 (Fall 2023, Placeholder)
