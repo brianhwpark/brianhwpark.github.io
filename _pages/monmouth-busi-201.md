@@ -21,7 +21,8 @@ header:
 - [Lecture Note #07](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC07.pdf) & [Workbook #07](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC07-Workbook.xlsx): Excel Basics Part 7
 - [Workbook #08](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC08-Workbook.xlsx): Review of Functions
 - [Lecture Note #09](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC09.pdf) & [Workbook #09](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC09-Workbook.xlsx): Filtering and Sorting
-- [Lecture Note #10](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC10.pdf) & [Workbook #10](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC10-Workbook.xlsx): Conditional Formatting
+- [Lecture Note #10](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC10.pdf) & [Workbook #10](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC10-Workbook.xlsx): Conditional Formatting Part #1
+- [Lecture Note #11](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC11.pdf) & [Workbook #10](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC11-Workbook.xlsx): Conditional Formatting Part #2
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01.pdf)
@@ -29,4 +30,4 @@ header:
   - [Answer Key #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01-Workbook-sol.xlsx)
 - [Quiz #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q02.pdf)
   - [Quiz Workbook #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q02-Workbook.xlsx)
-  - [Answer Key #2 (Placeholder)]
+  - [Answer Key #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q02-Workbook-sol.xlsx)

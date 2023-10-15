@@ -40,11 +40,13 @@ header:
   - [Answer Key #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS01-Sol.pdf)
 - [Problem Set #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS02.pdf)
   - [Answer Key #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS02-Sol.pdf)
+- [Problem Set #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS03.pdf)
+  - [Answer Key #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS03-Sol.pdf)  
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q01.pdf): Budget Constraints
   - [Answer Key #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q01-RECAP.pptx)
 - [Quiz #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q02.pdf): Preferences, Utility, UMP Intro
   - [Answer Key #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q02-RECAP.pptx)
-- Quiz #3 (Fall 2023, Placeholder): Utility Maximization and Comparative Statics
+- [Quiz #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q03.pdf): Utility Maximization and Comparative Statics
   - Answer Key #3 (Fall 2023, Placeholder)
