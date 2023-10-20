@@ -24,7 +24,7 @@ header:
 - [Lecture Note #10](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC10.pdf) & [Workbook #10](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC10-Workbook.xlsx): Conditional Formatting Part #1
 - [Lecture Note #11](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC11.pdf) & [Workbook #11](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC11-Workbook.xlsx): Conditional Formatting Part #2
 - [Lecture Note #12](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC12.pdf) & [Workbook #12](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC12-Workbook.xlsx): Introduction to Bar Charts and Formatting Charts
-- Lecture Note #13 & Workbook #13: Line Charts, Pie Charts, and Scatterplots
+- [Lecture Note #13](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC13.pdf) & [Workbook #13](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC13-Workbook.xlsx): Line Charts and Combos
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01.pdf)
@@ -33,4 +33,4 @@ header:
 - [Quiz #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q02.pdf)
   - [Quiz Workbook #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q02-Workbook.xlsx)
   - [Answer Key #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q02-Workbook-sol.xlsx)
-- [Quiz #3 (Fall 2023)]
+- Quiz #3 (Fall 2023)
