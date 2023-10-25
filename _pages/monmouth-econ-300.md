@@ -28,7 +28,9 @@ header:
 - [Lecture Slide #14](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC14.pptx): Comparative Statics in the UMP: Substitution Effects
 - [Lecture Slide #15](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC15.pptx): Market Demand and Elasticities
 - [Lecture Slide #16](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC16.pptx): Review of Consumer Theory
-- Lecture Slide #17: Production Functions
+- [Lecture Slide #17](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC17.pptx): Production Technology
+- Lecture Slide #18: Cost of Production
+- Lecture Slide #19: Cost Minimization
 
 ## Math Supplements
 - [Handout #1](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H01.pdf): Systems of Equations and Exponents
@@ -46,6 +48,7 @@ header:
   - [Answer Key #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS03-Sol.pdf)
 - [Problem Set #4 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS04.pdf)
   - [Answer Key #4 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS04-Sol.pdf)
+- Problem Set #5 (Fall 2023)
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q01.pdf): Budget Constraints
