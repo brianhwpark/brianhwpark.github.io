@@ -25,8 +25,9 @@ header:
 - [Lecture Note #11](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC11.pdf) & [Workbook #11](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC11-Workbook.xlsx): Conditional Formatting Part #2
 - [Lecture Note #12](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC12.pdf) & [Workbook #12](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC12-Workbook.xlsx): Introduction to Bar Charts and Formatting Charts
 - [Lecture Note #13](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC13.pdf) & [Workbook #13](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC13-Workbook.xlsx): Line Charts and Combos
-- Lecture Note #14 & Workbook #14: Scatterplots, Histograms, Pie Charts, Maps
-- Lecture Note #15 & Workbook #15: Pivot Tables
+- [Lecture Note #14](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC14.pdf) & [Workbook #14](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC14-Workbook.xlsx): Scatterplots, Histograms, Pie Charts, Maps
+- [Lecture Note #15](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC15.pdf) & [Workbook #15](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC15-Workbook.xlsx): Pivot Tables Part #1
+- Lecture Note #16 & Workbook #16: Pivot Tables Part #2
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01.pdf)

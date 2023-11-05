@@ -30,7 +30,9 @@ header:
 - [Lecture Slide #16](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC16.pptx): Review of Consumer Theory
 - [Lecture Slide #17](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC17.pptx): Production Technology
 - [Lecture Slide #18](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC18.pptx): Cost of Production
-- Lecture Slide #19: Market Structure and Profit Maximization
+- [Lecture Slide #19](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC19.pptx): Profit Maximization in Competitive Markets
+- Lecture Slide #20: Market Analysis of Competitive Markets
+- Lecture Slide #21: Competition and Market Structures
 
 ## Math Supplements
 - [Handout #1](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H01.pdf): Systems of Equations and Exponents
@@ -57,4 +59,6 @@ header:
   - [Answer Key #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q02-RECAP.pptx)
 - [Quiz #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q03.pdf): Utility Maximization and Comparative Statics
   - [Answer Key #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q03-RECAP.pptx)
-- Quiz #4 (Fall 2023): Production Functions and Cost Minimization
+- Quiz #4 (Fall 2023,Placeholder): Production, Cost Minimization, and Profit Maximization
+  - Answer Key #4 (Fall 2023, Placeholder)(/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q03-RECAP.pptx)
+
