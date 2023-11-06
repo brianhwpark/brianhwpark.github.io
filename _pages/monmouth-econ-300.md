@@ -31,7 +31,7 @@ header:
 - [Lecture Slide #17](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC17.pptx): Production Technology
 - [Lecture Slide #18](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC18.pptx): Cost of Production
 - [Lecture Slide #19](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC19.pptx): Profit Maximization in Competitive Markets
-- Lecture Slide #20: Market Analysis of Competitive Markets
+- Lecture Slide #20: Analysis of Perfectly Competitive Markets
 - Lecture Slide #21: Competition and Market Structures
 
 ## Math Supplements

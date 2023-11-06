@@ -27,7 +27,8 @@ header:
 - [Lecture Note #13](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC13.pdf) & [Workbook #13](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC13-Workbook.xlsx): Line Charts and Combos
 - [Lecture Note #14](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC14.pdf) & [Workbook #14](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC14-Workbook.xlsx): Scatterplots, Histograms, Pie Charts, Maps
 - [Lecture Note #15](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC15.pdf) & [Workbook #15](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC15-Workbook.xlsx): Pivot Tables Part #1
-- Lecture Note #16 & Workbook #16: Pivot Tables Part #2
+- [Lecture Note #16](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC16.pdf) & [Workbook #16](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC16-Workbook.xlsx): Pivot Tables Part #2
+- Lecture Note #17 & Workbook #17: Pivot Tables Part #3 & Pivot Charts
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01.pdf)
@@ -39,4 +40,5 @@ header:
 - [Quiz #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q03.pdf)
   - [Practice Quiz #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q03-Practice.xlsx)
   - [Quiz Workbook #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q03-Workbook.xlsx)
-  - Answer Key #3 (Fall 2023)
+  - [Answer Key #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q03-Workbook-Sol.xlsx)
+- Quiz #4 (Fall 2023)
