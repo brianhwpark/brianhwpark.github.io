@@ -31,8 +31,9 @@ header:
 - [Lecture Slide #17](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC17.pptx): Production Technology
 - [Lecture Slide #18](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC18.pptx): Cost of Production
 - [Lecture Slide #19](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC19.pptx): Profit Maximization in Competitive Markets
-- Lecture Slide #20: Analysis of Perfectly Competitive Markets
-- Lecture Slide #21: Competition and Market Structures
+- [Lecture Slide #20](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC20.pptx): Supply, Demand, and Government Interventions
+- [Lecture Slide #21](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC21.pptx): Taxation and Subsidies
+- [Lecture Slide #22](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC22.pptx): Monopolies and Monopsonies
 
 ## Math Supplements
 - [Handout #1](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H01.pdf): Systems of Equations and Exponents
@@ -52,6 +53,8 @@ header:
   - [Answer Key #4 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS04-Sol.pdf)
 - [Problem Set #5 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS05.pdf)
   - [Answer Key #5 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS05-Sol.pdf)
+- [Problem Set #6 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS06.pdf)
+  - [Answer Key #6 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS06-Sol.pdf)  
 
 
 ## Quizzes
@@ -61,6 +64,6 @@ header:
   - [Answer Key #2 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q02-RECAP.pptx)
 - [Quiz #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q03.pdf): Utility Maximization and Comparative Statics
   - [Answer Key #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q03-RECAP.pptx)
-- Quiz #4 (Fall 2023,Placeholder): Production, Cost Minimization, and Profit Maximization
-  - Answer Key #4 (Fall 2023, Placeholder)
+- [Quiz #4 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q04.pdf): Production, Cost Minimization, and Profit Maximization
+  - [Answer Key #4 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q04-RECAP.pptx)
 
