@@ -34,6 +34,7 @@ header:
 - [Lecture Slide #20](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC20.pptx): Supply, Demand, and Government Interventions
 - [Lecture Slide #21](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC21.pptx): Taxation and Subsidies
 - [Lecture Slide #22](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC22.pptx): Monopolies and Monopsonies
+- [Lecture Slide #23](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC23.pptx): Monopolistic Competition and Oligopolies
 
 ## Math Supplements
 - [Handout #1](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H01.pdf): Systems of Equations and Exponents

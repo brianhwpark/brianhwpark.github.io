@@ -28,7 +28,9 @@ header:
 - [Lecture Note #14](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC14.pdf) & [Workbook #14](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC14-Workbook.xlsx): Scatterplots, Histograms, Pie Charts, Maps
 - [Lecture Note #15](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC15.pdf) & [Workbook #15](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC15-Workbook.xlsx): Pivot Tables Part #1
 - [Lecture Note #16](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC16.pdf) & [Workbook #16](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC16-Workbook.xlsx): Pivot Tables Part #2
-- Lecture Note #17 & Workbook #17: Pivot Tables Part #3 & Pivot Charts
+- [Lecture Note #17](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC17.pdf) & [Workbook #17](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC17-Workbook.xlsx): Pivot Tables Part #3
+- [Lecture Note #18](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC18.pdf) & [Workbook #18](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC18-Workbook.xlsx): Pivot Tables Part #4
+- [Lecture Note #19](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC19.pdf) & [Workbook #19](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC19-Workbook.xlsx): What-If Analysis
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01.pdf)
@@ -41,4 +43,6 @@ header:
   - [Practice Quiz #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q03-Practice.xlsx)
   - [Quiz Workbook #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q03-Workbook.xlsx)
   - [Answer Key #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q03-Workbook-Sol.xlsx)
-- Quiz #4 (Fall 2023)
+- [Quiz #4 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q04.pdf)
+  - [Quiz Workbook #4 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q04-Workbook.xlsx)
+  - Answer Key #4 (Fall 2023, Placeholder)
