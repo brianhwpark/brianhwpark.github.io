@@ -45,4 +45,4 @@ header:
   - [Answer Key #3 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q03-Workbook-Sol.xlsx)
 - [Quiz #4 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q04.pdf)
   - [Quiz Workbook #4 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q04-Workbook.xlsx)
-  - Answer Key #4 (Fall 2023, Placeholder)
+  - [Answer Key #4 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q04-Workbook-Sol.xlsx)

@@ -23,9 +23,9 @@ header:
 - [Lecture Slide #09](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC09.pptx): The UMP with Math
 - [Lecture Slide #10](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC10.pptx): Special Cases in the UMP
 - [Lecture Slide #11](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC11.pptx): Review of LEC01 to LEC10
-- [Lecture Slide #12](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC12.pptx): Comparative Statics in the UMP: Income
-- [Lecture Slide #13](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC13.pptx): Comparative Statics in the UMP: Price(s)
-- [Lecture Slide #14](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC14.pptx): Comparative Statics in the UMP: Substitution Effects
+- [Lecture Slide #12](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC12.pptx): Comparative Statics in the UMP - Income
+- [Lecture Slide #13](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC13.pptx): Comparative Statics in the UMP - Price(s)
+- [Lecture Slide #14](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC14.pptx): Comparative Statics in the UMP - Substitution Effects
 - [Lecture Slide #15](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC15.pptx): Market Demand and Elasticities
 - [Lecture Slide #16](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC16.pptx): Review of Consumer Theory
 - [Lecture Slide #17](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC17.pptx): Production Technology
@@ -35,6 +35,9 @@ header:
 - [Lecture Slide #21](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC21.pptx): Taxation and Subsidies
 - [Lecture Slide #22](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC22.pptx): Monopolies and Monopsonies
 - [Lecture Slide #23](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC23.pptx): Monopolistic Competition and Oligopolies
+- [Lecture Slide #24](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC24.pptx): Game Theory - Static Games
+- Lecture Slide #25: Game Theory - Dynamic Games
+
 
 ## Math Supplements
 - [Handout #1](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H01.pdf): Systems of Equations and Exponents
@@ -55,8 +58,9 @@ header:
 - [Problem Set #5 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS05.pdf)
   - [Answer Key #5 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS05-Sol.pdf)
 - [Problem Set #6 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS06.pdf)
-  - [Answer Key #6 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS06-Sol.pdf)  
-
+  - [Answer Key #6 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS06-Sol.pdf)
+- Problem Set #7 (Fall 2023)
+  - Answer Key #7 (Fall 2023)
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-Q01.pdf): Budget Constraints
