@@ -36,7 +36,7 @@ header:
 - [Lecture Slide #22](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC22.pptx): Monopolies and Monopsonies
 - [Lecture Slide #23](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC23.pptx): Monopolistic Competition and Oligopolies
 - [Lecture Slide #24](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC24.pptx): Game Theory - Static Games
-- Lecture Slide #25: Game Theory - Dynamic Games
+- [Lecture Slide #25](/files/teaching-resources/monmouthcollege-econ-300/ECON300-LEC25.pptx): Game Theory - Repeated and Dynamic Games
 
 
 ## Math Supplements
@@ -45,6 +45,7 @@ header:
 - [Handout #3](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H03.pdf): Derivatives
 - [Handout #4](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H04.pdf): Partial Derivatives
 - [Handout #5](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H05.pdf): Cheat-Sheet for Derivatives
+- [Handout #6](/files/teaching-resources/monmouthcollege-econ-300/ECON300-H06.pdf): Geometric Series
 
 ## Problem Sets
 - [Problem Set #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS01.pdf)
