@@ -60,7 +60,7 @@ header:
   - [Answer Key #5 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS05-Sol.pdf)
 - [Problem Set #6 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS06.pdf)
   - [Answer Key #6 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS06-Sol.pdf)
-- Problem Set #7 (Fall 2023)
+- [Problem Set #7 (Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/ECON300-PS07.pdf)
   - Answer Key #7 (Fall 2023)
 
 ## Quizzes
