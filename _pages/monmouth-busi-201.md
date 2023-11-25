@@ -31,6 +31,7 @@ header:
 - [Lecture Note #17](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC17.pdf) & [Workbook #17](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC17-Workbook.xlsx): Pivot Tables Part #3
 - [Lecture Note #18](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC18.pdf) & [Workbook #18](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC18-Workbook.xlsx): Pivot Tables Part #4
 - [Lecture Note #19](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC19.pdf) & [Workbook #19](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC19-Workbook.xlsx): What-If Analysis
+- [Lecture Note #20](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC20.pdf) & [Workbook #20](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-LEC20-txt.txt): Power Query Part #1
 
 ## Quizzes
 - [Quiz #1 (Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/BUSI201-Q01.pdf)
