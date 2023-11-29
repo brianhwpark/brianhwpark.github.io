@@ -1,0 +1,41 @@
+Code,Title,Year,Length,Rated,Rating
+IMDB-RANK-01,The Shawshank Redemption,1994,142,R,9.3
+IMDB-RANK-02,The Godfather,1972,175,R,9.2
+IMDB-RANK-03,The Dark Knight,2008,152,PG-13,9
+IMDB-RANK-04,The Godfather Part II,1974,202,R,9
+IMDB-RANK-05,12 Angry Men,1957,96,N/A,9
+IMDB-RANK-06,Schindler's List,1993,195,R,9
+IMDB-RANK-07,The Lord of the Rings: The Return of the King,2003,201,PG-13,9
+IMDB-RANK-08,Pulp Fiction,1994,154,R,8.9
+IMDB-RANK-09,The Lord of the Rings: The Fellowship of the Ring,2001,178,PG-13,8.8
+IMDB-RANK-10,The Good the Bad and the Ugly,1966,178,N/A,8.8
+IMDB-RANK-11,Forrest Gump,1994,142,PG-13,8.8
+IMDB-RANK-12,Fight Club,1999,139,R,8.8
+IMDB-RANK-13,The Lord of the Rings: The Two Towers,2002,179,PG-13,8.8
+IMDB-RANK-14,Inception,2010,148,PG-13,8.8
+IMDB-RANK-15,Star Wars: Episode V - The Empire Strikes Back,1980,124,PG,8.7
+IMDB-RANK-16,The Matrix,1999,136,R,8.7
+IMDB-RANK-17,Goodfellas,1990,145,R,8.7
+IMDB-RANK-18,One Flew Over the Cuckoo's Nest,1975,143,R,8.7
+IMDB-RANK-19,Se7en,1995,127,R,8.6
+IMDB-RANK-20,It's a Wonderful Life,1946,130,PG,8.6
+METACRITIC-RANK-01,Citizen Kane,1941,119,PG,100
+METACRITIC-RANK-02,The Godfather,1972,175,R,100
+METACRITIC-RANK-03,Rear Window,1954,112,PG,100
+METACRITIC-RANK-04,Casablanca,1942,102,PG,100
+METACRITIC-RANK-05,Boyhood,2014,165,R,100
+METACRITIC-RANK-06,Three Colors: Red,1994,99,R,100
+METACRITIC-RANK-07,Vertigo,1958,128,PG,100
+METACRITIC-RANK-08,Notorious,1946,102,N/A,100
+METACRITIC-RANK-09,Singin' in the Rain,1952,103,G,99
+METACRITIC-RANK-10,The Treasure of the Sierra Madre,1948,126,N/A,98
+AFI-RANK-01,Citizen Kane,1941,119,PG,
+AFI-RANK-02,Casablanca,1942,102,PG,
+AFI-RANK-03,The Godfather,1972,175,R,
+AFI-RANK-04,Gone with the Wind,1939,238,N/A,
+AFI-RANK-05,Lawrence of Arabia,1962,218,N/A,
+AFI-RANK-06,The Wizard of OZ,1939,102,G,
+AFI-RANK-07,The Graduate,1967,106,PG,
+AFI-RANK-08,On the Waterfront,1954,108,N/A,
+AFI-RANK-09,Schindler's List,1993,195,R,
+AFI-RANK-10,Singin' in the Rain,1952,103,G,
