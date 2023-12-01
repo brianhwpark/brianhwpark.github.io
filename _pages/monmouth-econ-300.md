@@ -72,3 +72,5 @@ header:
 - Quiz #4 [(Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023-quiz/ECON300-F2023-Q04.pdf): Production, Cost Minimization, and Profit Maximization
   - Answer Key #4 [(Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023-quiz/ECON300-F2023-Q04-RECAP.pptx)
 
+## Final Exam
+- Practice Final [(Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023-final/ECON300-F2023-PracticeFinal.pdf)
