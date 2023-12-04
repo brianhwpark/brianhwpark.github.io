@@ -74,3 +74,5 @@ header:
 
 ## Final Exam
 - Practice Final [(Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023-final/ECON300-F2023-PracticeFinal.pdf)
+  - Answer Key for Practice Final [(Fall 2023)](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023-final/ECON300-F2023-PracticeFinal-RECAP.pptx)
+- Final Exam (Fall 2023, Placeholder)

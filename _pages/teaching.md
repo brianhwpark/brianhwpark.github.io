@@ -10,8 +10,8 @@ You may schedule in-person office hours through [Calendly](https://calendly.com/
 
 ## Monmouth College (Assistant Professor)
 - [ECON 300](/monmouth-econ-300): Intermediate Price Theory (Fall 2023)
-- ECON 301: Intermediate Macroeconomics (Spring 2024)
-- ECON 380: Environmental Economics (Spring 2024)
+- [ECON 301](/monmouth-econ-301): Intermediate Macroeconomics (Spring 2024)
+- [ECON 420](/monmouth-econ-420): Topics in Economic Research (Spring 2024)
 - [BUSI 201](/monmouth-busi-201): Business Data Analysis (Fall 2023)
 
 ## Cornell University (Graduate Teaching Assistant)
