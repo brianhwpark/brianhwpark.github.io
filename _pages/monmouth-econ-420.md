@@ -9,7 +9,9 @@ header:
 #- [Artificial Neural Networks](/files/html/teaching-material/Artificial Neural Networks)
 ---
 
-This webpage is under construction
+This course is an independent study course, which allows the instructor to customize the course to best fit the enrolled student(s). In the Spring 2024 semester, this course will cover various topics in causal inference including instrument variables, difference-in-differences, regression discontinuity, matching, synthetic control, etc.
 
 ## Syllabus
 - [Spring 2024](/files/teaching-resources/monmouthcollege-econ-420/ECON420-S2024-Syllabus.pdf)
+
+## Reading List

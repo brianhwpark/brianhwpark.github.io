@@ -12,4 +12,4 @@ header:
 This webpage is under construction
 
 ## Syllabus
-- Spring 2024
+- [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/ECON301-S2024-Syllabus.pdf)
