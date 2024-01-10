@@ -12,7 +12,7 @@ You may schedule in-person office hours through [Calendly](https://calendly.com/
 - [ECON 300](/monmouth-econ-300): Intermediate Price Theory (Fall 2023)
 - [ECON 301](/monmouth-econ-301): Intermediate Macroeconomics (Spring 2024)
 - [ECON 420](/monmouth-econ-420): Topics in Economic Research (Spring 2024)
-- [BUSI 201](/monmouth-busi-201): Business Data Analysis (Fall 2023)
+- [BUSI 201](/monmouth-busi-201): Business Data Analysis (Fall 2023, Spring 2024)
 
 ## Cornell University (Graduate Teaching Assistant)
 - AEM 2600: Managerial Economics (Fall 2019, Fall 2020, Fall 2021)

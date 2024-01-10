@@ -9,7 +9,5 @@ header:
 #- [Artificial Neural Networks](/files/html/teaching-material/Artificial Neural Networks)
 ---
 
-This webpage is under construction
-
 ## Syllabus
 - [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/ECON301-S2024-Syllabus.pdf)
