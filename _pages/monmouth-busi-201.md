@@ -54,4 +54,6 @@ header:
 - Practice Final [(Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/busi-201-f2023-final/BUSI201-F2023-PracticeFinal.pdf)
   - Practice Final Workbook [(Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/busi-201-f2023-final/BUSI201-F2023-PracticeFinal-Workbook.xlsx)
   - Answer Key for Practice Final [(Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/busi-201-f2023-final/BUSI201-F2023-PracticeFinal-Workbook-sol.xlsx)
-- Final Exam (Fall 2023, Placeholder)
+- Final Exam [(Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/busi-201-f2023-final/BUSI201-F2023-Final.pdf)
+  - Final Exam Workbook [(Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/busi-201-f2023-final/BUSI201-F2023-Final-Workbook.xlsx)
+  - Answer Key for Final Exam [(Fall 2023)](/files/teaching-resources/monmouthcollege-busi-201/busi-201-f2023-final/BUSI201-F2023-Final-Workbook-sol.xlsx)
