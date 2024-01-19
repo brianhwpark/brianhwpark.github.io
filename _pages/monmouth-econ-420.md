@@ -13,5 +13,3 @@ This course is an independent study course, which allows the instructor to custo
 
 ## Syllabus
 - [Spring 2024](/files/teaching-resources/monmouthcollege-econ-420/ECON420-S2024-Syllabus.pdf)
-
-## Reading List
