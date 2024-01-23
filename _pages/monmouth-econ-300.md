@@ -37,7 +37,6 @@ header:
 - [Lecture Slide #24](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023-lecture-note/ECON300-F2023-LEC24.pptx): Game Theory - Static Games
 - [Lecture Slide #25](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023-lecture-note/ECON300-F2023-LEC25.pptx): Game Theory - Repeated and Dynamic Games
 
-
 ## Math Supplements
 - [Handout #1](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023-handout/ECON300-F2023-H01.pdf): Systems of Equations and Exponents
 - [Handout #2](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023-handout/ECON300-F2023-H02.pdf): Slopes of Linear and Quadratic Functions

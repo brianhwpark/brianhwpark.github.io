@@ -13,4 +13,6 @@ header:
 - [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/ECON301-S2024-Syllabus.pdf)
 
 ## Lecture Slides
-- [Lecture Slide #01](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024-lecture-note/ECON301-S2024-LEC01.pptx): An Overview
+- [Lecture Slide #01](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024-lecture-note/ECON301-S2024-LEC01.pptx): Overview
+- Lecture Slide #02: The Goods Market
+- Lecture Slide #03: The Financial Market
