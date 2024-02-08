@@ -16,11 +16,17 @@ header:
 - [Lecture Note #02](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC02.pdf) & [Workbook #02](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC02-Workbook.xlsx): Excel Basics Part 2
 - [Lecture Note #03](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC03.pdf) & [Workbook #03](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC03-Workbook.xlsx): Introduction to Functions
 - [Lecture Note #04](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC04.pdf) & [Workbook #04](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC04-Workbook.xlsx): Functions Part 1
-- Lecture Note #05 & Workbook #05: Functions Part 2
+- [Lecture Note #05](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC05.pdf) & [Workbook #05](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC05-Workbook.xlsx): Functions Part 2
+- Lecture Note #06: Functions Part 3
+- Lecture Note #07: Functions Part 4
+- Lecture Note #08: Filtering and Sorting
 
 ## Quizzes
-- [Quiz #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01.pdf): Excel Basics
-  - [Quiz Workbook #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01-Workbook.xlsx) & [Answer Key](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01-Workbook-Sol.xlsx)
+- Quiz #1: Excel Basics
+  - [Quiz Booklet](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01.pdf), [Workbook](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01-Workbook.xlsx) & [Answer Key](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01-Workbook-Sol.xlsx)
+-Quiz #2: Functions Part 1
+  - Section 1: [Quiz Booklet](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S01.pdf) & [Workbook](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S01-Workbook.xlsx)
+  - Section 2: [Quiz Booklet](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S02.pdf) & [Workbook](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S02-Workbook.xlsx)
 
 ## Past Materials
 - [Past Materials](/monmouth-busi-201-past)
