@@ -17,7 +17,7 @@ header:
 - [Lecture Slide #02](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC02.pptx): The Goods Market in the Short-run
 - [Lecture Slide #03](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC03.pptx): The Financial Market and Money Supply
 - [Lecture Slide #04](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC04.pptx): The Financial Market in the Short-run
-- [Lecture Slide #05]: The IS-LM Framework in the Short-run Part #1
+- [Lecture Slide #05](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC05.pptx): The IS-LM Framework in the Short-run Part #1
 - Lecture Slide #06: The IS-LM Framework in the Short-run Part #2
 
 ## Quizzes
