@@ -18,7 +18,7 @@ header:
 - [Lecture Note #04](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC04.pdf) & [Workbook #04](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC04-Workbook.xlsx): Functions Part 1
 - [Lecture Note #05](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC05.pdf) & [Workbook #05](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC05-Workbook.xlsx): Functions Part 2
 - [Lecture Note #06](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC06.pdf) & [Workbook #06](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC06-Workbook.xlsx): Functions Part 3
-- Workbook #07: Recap of Functions and Formulae
+- [Workbook #07](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC07-Workbook.xlsx): Recap of Functions
 - Lecture Note #08: Filtering and Sorting
 - Lecture Note #09: Conditional Formatting Part 1
 - Lecture Note #10: Conditional Formatting Part 2
