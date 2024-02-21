@@ -19,9 +19,13 @@ header:
 - [Lecture Note #05](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC05.pdf) & [Workbook #05](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC05-Workbook.xlsx): Functions Part 2
 - [Lecture Note #06](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC06.pdf) & [Workbook #06](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC06-Workbook.xlsx): Functions Part 3
 - [Workbook #07](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC07-Workbook.xlsx): Recap of Functions
-- Lecture Note #08: Filtering and Sorting
-- Lecture Note #09: Conditional Formatting Part 1
-- Lecture Note #10: Conditional Formatting Part 2
+- [Lecture Note #08](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC08.pdf) & [Workbook #08](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC08-Workbook.xlsx): Filtering and Sorting
+- [Lecture Note #09](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC09.pdf) & [Workbook #09](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC09-Workbook.xlsx): Conditional Formatting Part 1
+- [Lecture Note #10](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC10.pdf) & [Workbook #10](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC10-Workbook.xlsx): Conditional Formatting Part 2
+- [Lecture Note #11](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC11.pdf) & [Workbook #11](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC11-Workbook.xlsx): Charts Part 1
+- [Lecture Note #12](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC12.pdf) & [Workbook #12](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC12-Workbook.xlsx): Charts Part 2
+- [Lecture Note #13](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC13.pdf) & [Workbook #13](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC13-Workbook.xlsx): Charts Part 3
+- [Lecture Note #14](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC14.pdf) & [Workbook #14](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC14-Workbook.xlsx): PivotTables Part 1
 
 ## Quizzes (Spring 2024)
 - Quiz #1: Excel Basics
