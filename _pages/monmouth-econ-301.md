@@ -24,5 +24,5 @@ header:
 ## Quizzes
 - Quiz #1: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q01.pdf)
   - Answer Key #1: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q01-RECAP.pptx)
-- Quiz #2: Spring 2024, Placeholder
-  - Answer Key #2: Spring 2024, Placeholder
+- Quiz #2: Spring 2024
+  - Answer Key #2: Spring 2024
