@@ -22,5 +22,5 @@ header:
 - Lecture Slide #07: The Medium Run - Labor Markets
 
 ## Quizzes
-- [Quiz #1](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q01.pdf) & Answer Key #1
+- [Quiz #1](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q01.pdf) & [Answer Key #1](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q01-RECAP.pptx)
 - Quiz #2 & Answer Key #2
