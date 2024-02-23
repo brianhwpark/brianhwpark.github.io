@@ -10,7 +10,8 @@ header:
 # ## Past Materials
 # - [Past Materials](/monmouth-busi-201-past)
 ---
-## Syllabus
+
+## Syllabi
 - [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/BUSI201-S2024-Syllabus.pdf)
 
 ## Lecture Notes & Workbooks (Spring 2024)
