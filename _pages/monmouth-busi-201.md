@@ -7,6 +7,8 @@ header:
 # ## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Poli 891: Machine Learning
 #{: #machine-learning }
 #- [Artificial Neural Networks](/files/html/teaching-material/Artificial Neural Networks)
+# ## Past Materials
+# - [Past Materials](/monmouth-busi-201-past)
 ---
 ## Syllabus
 - [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/BUSI201-S2024-Syllabus.pdf)
@@ -27,19 +29,38 @@ header:
 - [Lecture Note #13](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC13.pdf) & [Workbook #13](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC13-Workbook.xlsx): Charts Part 3
 - [Lecture Note #14](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC14.pdf) & [Workbook #14](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC14-Workbook.xlsx): PivotTables Part 1
 
-## Quizzes (Spring 2024)
+## Quizzes
 - Quiz #1: Excel Basics
   - Quiz Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01.pdf)
   - Workbook: [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01-Workbook.xlsx)
   - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01-Workbook-Sol.xlsx)
-- Quiz #2: Functions
+- Quiz #2: Functions #1
   - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S02.pdf))
   - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S02-Workbook.xlsx))
   - Answer Key: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S01-Workbook-sol.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S02-Workbook-sol.xlsx))
-- Quiz #3: Functions
+- Quiz #3: Functions #2
+  - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q03-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q03-S02.pdf))
+  - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q03-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q03-S02-Workbook.xlsx))
+  - Answer Key: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q03-S01-Workbook-sol.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q03-S02-Workbook-sol.xlsx))
+- Quiz #4: Filtering and Conditional Formatting
+  - Quiz Booklet: Spring 2024 (Section #1, Section #2)
+  - Workbook: Spring 2024 (Section #1, Section #2)
+  - Answer Key: Spring 2024 (Section #1, Section #2)
+- Quiz #5: Charts
+  - Quiz Booklet: Spring 2024 (Section #1, Section #2)
+  - Workbook: Spring 2024 (Section #1, Section #2)
+  - Answer Key: Spring 2024 (Section #1, Section #2)
+- Quiz #6: PivotTables and PivotCharts
   - Quiz Booklet: Spring 2024 (Section #1, Section #2)
   - Workbook: Spring 2024 (Section #1, Section #2)
   - Answer Key: Spring 2024 (Section #1, Section #2)
 
-## Past Materials
-- [Past Materials](/monmouth-busi-201-past)
+## Final Exam
+- Practice Final
+  - Booklet:
+  - Workbook:
+  - Answer Key:
+- Final Exam
+  - Booklet:
+  - Workbook:
+  - Answer Key:
