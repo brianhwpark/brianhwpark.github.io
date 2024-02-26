@@ -14,12 +14,12 @@ header:
 
 ## Lecture Slides (Spring 2024)
 - [Lecture Slide #01](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC01.pptx): Overview
-- [Lecture Slide #02](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC02.pptx): Short Run - Goods Market 
+- [Lecture Slide #02](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC02.pptx): Short Run - The Goods Market
 - [Lecture Slide #03](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC03.pptx): Short Run - Money Supply
-- [Lecture Slide #04](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC04.pptx): Short Run - Financial Markets
+- [Lecture Slide #04](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC04.pptx): Short Run - The Financial Market
 - [Lecture Slide #05](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC05.pptx): Short Run - The IS-LM Framework Part #1
 - [Lecture Slide #06](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC06.pptx): Short Run - The IS-LM Framework Part #2
-- Lecture Slide #07: Medium Run - Labor Markets
+- [Lecture Slide #07](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC07.pptx): Medium Run - The Labor Market
 - Lecture Slide #08: Medium Run - The Phillips Curve
 - Lecture Slide #09: Medium Run - The IS-LM-PC Framework
 
@@ -36,3 +36,4 @@ header:
 - Quiz #4: The Long Run
   - Quiz Booklet: Spring 2024 (Placeholder)
   - Answer Key: Spring 2024 (Placeholder)
+- Quiz #5: The Open Market
