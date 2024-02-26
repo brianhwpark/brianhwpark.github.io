@@ -23,14 +23,14 @@ header:
 - [Lecture Slide #09](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC09.pptx): The UMP with Math
 - [Lecture Slide #10](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC10.pptx): Special Cases in the UMP
 - [Lecture Slide #11](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC11.pptx): Review of LEC01 to LEC10
-- [Lecture Slide #12](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC12.pptx): Comparative Statics in the UMP - Income
-- [Lecture Slide #13](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC13.pptx): Comparative Statics in the UMP - Price(s)
-- [Lecture Slide #14](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC14.pptx): Comparative Statics in the UMP - Substitution Effects
+- [Lecture Slide #12](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC12.pptx): Comparative Statics - Income
+- [Lecture Slide #13](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC13.pptx): Comparative Statics - Price(s)
+- [Lecture Slide #14](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC14.pptx): The Substitution Effect
 - [Lecture Slide #15](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC15.pptx): Market Demand and Elasticities
 - [Lecture Slide #16](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC16.pptx): Review of Consumer Theory
 - [Lecture Slide #17](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC17.pptx): Production Technology
 - [Lecture Slide #18](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC18.pptx): Cost of Production
-- [Lecture Slide #19](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC19.pptx): Profit Maximization in Competitive Markets
+- [Lecture Slide #19](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC19.pptx): Profit Maximization
 - [Lecture Slide #20](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC20.pptx): Supply, Demand, and Government Interventions
 - [Lecture Slide #21](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC21.pptx): Taxation and Subsidies
 - [Lecture Slide #22](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC22.pptx): Monopolies and Monopsonies
