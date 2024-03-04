@@ -20,8 +20,8 @@ header:
 - [Lecture Slide #05](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC05.pptx): Short Run - The IS-LM Framework Part #1
 - [Lecture Slide #06](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC06.pptx): Short Run - The IS-LM Framework Part #2
 - [Lecture Slide #07](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC07.pptx): Medium Run - The Labor Market
-- Lecture Slide #08: Medium Run - The Phillips Curve
-- Lecture Slide #09: Medium Run - The IS-LM-PC Framework
+- [Lecture Slide #08](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC08.pptx): Medium Run - The Phillips Curve
+- [Lecture Slide #09](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC09.pptx): Medium Run - The IS-LM-PC Framework
 
 ## Quizzes
 - Quiz #1: Introduction
