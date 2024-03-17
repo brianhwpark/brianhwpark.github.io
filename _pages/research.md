@@ -18,3 +18,4 @@ The following is a selection of my research projects.
 <!--  - [Data](/data/research/working-paper.pdf) -->
 - Climate Change as a Determinant of Migrant Family Reunification
 - Household Job Stability, Public Childcare, and Fertility Decisions
+- Pop Culture and Discouraged Parents
