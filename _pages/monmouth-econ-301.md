@@ -24,7 +24,7 @@ header:
 - [Lecture Slide #09](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC09.pptx): Medium Run - The IS-LM-PC Framework
 - [Lecture Slide #10](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC10.pptx): Long Run - Economic Growth
 - [Lecture Slide #11](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC11.pptx): Long Run - Capital Accumulation
-- Lecture Slide #12: Long Run - Technological Progress
+- [Lecture Slide #12](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC12.pptx): Long Run - Technological Progress
 - Lecture Slide #13: Expectations and Financial Markets
 - Lecture Slide #14: Expectations and the Real Economy
 - Lecture Slide #15: Expectations and Policy Interactions
