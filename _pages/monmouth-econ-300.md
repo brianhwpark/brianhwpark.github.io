@@ -19,7 +19,7 @@ header:
 - [Lecture Slide #05](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC05.pptx): Introduction to Indifference Curves
 - [Lecture Slide #06](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC06.pptx): Indifference Curves and Marginal Analysis
 - [Lecture Slide #07](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC07.pptx): The Marginal Rate of Substitution
-- [Lecture Slide #08](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC08.pptx): The Utility Maximization Problem
+- [Lecture Slide #08](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC08.pptx): The Utility Maximization Problem (UMP)
 - [Lecture Slide #09](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC09.pptx): The UMP with Math
 - [Lecture Slide #10](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC10.pptx): Special Cases in the UMP
 - [Lecture Slide #11](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC11.pptx): Review of LEC01 to LEC10

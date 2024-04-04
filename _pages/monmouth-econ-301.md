@@ -25,11 +25,12 @@ header:
 - [Lecture Slide #10](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC10.pptx): Long Run - Economic Growth
 - [Lecture Slide #11](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC11.pptx): Long Run - Capital Accumulation
 - [Lecture Slide #12](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC12.pptx): Long Run - Technological Progress
-- Lecture Slide #13: Expectations and Financial Markets
-- Lecture Slide #14: Expectations and the Real Economy
-- Lecture Slide #15: Expectations and Policy Interactions
-- Lecture Slide #16: The Goods Market in an Open Economy
-- Lecture Slide #17: The Financial Market in an Open Economy
+- [Lecture Slide #13](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC13.pptx): Long Run - Discussions on Growth
+- Lecture Slide #14: Expectations and Financial Markets
+- Lecture Slide #15: Expectations and the Real Economy
+- Lecture Slide #16: Expectations and Policy Interactions
+- Lecture Slide #17: The Goods Market in an Open Economy
+- Lecture Slide #18: The Financial Market in an Open Economy
 
 ## Quizzes
 - Quiz #1: Introduction

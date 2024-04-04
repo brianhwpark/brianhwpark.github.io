@@ -29,6 +29,12 @@ header:
 - [Lecture Note #12](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC12.pdf) & [Workbook #12](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC12-Workbook.xlsx): Charts Part 2
 - [Lecture Note #13](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC13.pdf) & [Workbook #13](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC13-Workbook.xlsx): Charts Part 3
 - [Lecture Note #14](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC14.pdf) & [Workbook #14](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC14-Workbook.xlsx): PivotTables Part 1
+- [Lecture Note #15](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC15.pdf) & [Workbook #15](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC15-Workbook.xlsx): PivotTables Part 2
+- [Lecture Note #16](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC16.pdf) & [Workbook #16](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC16-Workbook.xlsx): PivotTables Part 3
+- [Lecture Note #17](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC17.pdf) & [Workbook #17](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC17-Workbook.xlsx): PivotTables Part 4
+- [Lecture Note #18](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC18.pdf) & [Workbook #18](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC18-Workbook.xlsx): Data Analysis Tools Part 1
+- [Lecture Note #19](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC19.pdf) & [Workbook #19](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC19-txt.txt): Data Analysis Tools Part 2
+- [Lecture Note #20](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-lecture-notes/BUSI201-S2024-LEC20.pdf) & [Workbook #20](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-workbooks/BUSI201-S2024-LEC20-Workbook.xlsx): Data Analysis Tools Part 3
 
 ## Quizzes
 - Quiz #1: Excel Basics
@@ -46,10 +52,10 @@ header:
 - Quiz #4: Filtering and Conditional Formatting
   - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q04-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q04-S02.pdf))
   - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q04-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q04-S02-Workbook.xlsx))
-  - Answer Key: Spring 2024 (Section #1, Section #2)
+  - Answer Key: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q04-S01-Workbook-sol.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q04-S02-Workbook-sol.xlsx))
 - Quiz #5: Charts
-  - Quiz Booklet: Spring 2024 (Section #1, Section #2)
-  - Workbook: Spring 2024 (Section #1, Section #2)
+  - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q05-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q05-S02.pdf))
+  - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q05-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q05-S02-Workbook.xlsx))
   - Answer Key: Spring 2024 (Section #1, Section #2)
 - Quiz #6: PivotTables and PivotCharts
   - Quiz Booklet: Spring 2024 (Section #1, Section #2)
