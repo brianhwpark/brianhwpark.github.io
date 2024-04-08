@@ -1,6 +1,6 @@
 ---
 permalink: /monmouth-econ-301/
-title: "Intermediate Macroeconomic Theory"
+title: "Intermediate Macroeconomics"
 header: 
   og_image: "teaching/placeholder_teaching.png"
 
@@ -26,11 +26,13 @@ header:
 - [Lecture Slide #11](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC11.pptx): Long Run - Capital Accumulation
 - [Lecture Slide #12](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC12.pptx): Long Run - Technological Progress
 - [Lecture Slide #13](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC13.pptx): Long Run - Discussions on Growth
-- Lecture Slide #14: Expectations and Financial Markets
-- Lecture Slide #15: Expectations and the Real Economy
-- Lecture Slide #16: Expectations and Policy Interactions
-- Lecture Slide #17: The Goods Market in an Open Economy
-- Lecture Slide #18: The Financial Market in an Open Economy
+- Lecture Slide #14: Expectations - Financial Markets
+- Lecture Slide #15: Expectations - The Real Economy
+- Lecture Slide #16: Expectations - Policy Interactions
+- Lecture Slide #17: Open Economy - The Goods Market
+- Lecture Slide #18: Open Economy - The Financial Market
+- Lecture Slide #19: Open Economy - The IS-LM Framework
+- Lecture Slide #20: Open Economy - Exchange Rates
 
 ## Quizzes
 - Quiz #1: Introduction
@@ -43,7 +45,7 @@ header:
   - Quiz Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q03.pdf)
   - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q03-RECAP.pptx)
 - Quiz #4: The Long Run
-  - Quiz Booklet: Spring 2024 (Placeholder)
+  - Quiz Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q04.pdf)
   - Answer Key: Spring 2024 (Placeholder)
 - Quiz #5: Expectations
   - Quiz Booklet: Spring 2024 (Placeholder)
@@ -51,3 +53,7 @@ header:
 - Quiz #6: The Open Economy
   - Quiz Booklet: Spring 2024 (Placeholder)
   - Answer Key: Spring 2024 (Placeholder)
+
+  ## Practice Final Exam
+
+  ## Final Exam

@@ -10,6 +10,7 @@ header:
 ---
 
 ## Syllabi
+- Fall 2024
 - [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/ECON300-F2023-Syllabus.pdf)
 
 ## Lecture Slides (Fall 2023)
@@ -38,7 +39,7 @@ header:
 - [Lecture Slide #24](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC24.pptx): Game Theory - Static Games
 - [Lecture Slide #25](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC25.pptx): Game Theory - Repeated and Dynamic Games
 
-## Math Supplements
+## Supplements
 - [Handout #1](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-handout/ECON300-F2023-H01.pdf): Systems of Equations and Exponents
 - [Handout #2](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-handout/ECON300-F2023-H02.pdf): Slopes of Linear and Quadratic Functions
 - [Handout #3](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-handout/ECON300-F2023-H03.pdf): Derivatives
@@ -70,23 +71,23 @@ header:
   - Answer Key #7 [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-problem-set/ECON300-F2023-PS07-Sol.pdf)
 
 ## Quizzes
-- Quiz #1 
-  - Quiz Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q01.pdf): Budget Constraints
+- Quiz #1: Budget Constraints
+  - Quiz Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q01.pdf)
   - Answer Key: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q01-RECAP.pptx)
-- Quiz #2 
-  - Quiz Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q02.pdf): Preferences, Utility, UMP Intro
+- Quiz #2: Preferences, Utility, UMP Intro
+  - Quiz Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q02.pdf)
   - Answer Key: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q02-RECAP.pptx)
-- Quiz #3 
-  - Quiz Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q03.pdf): Utility Maximization and Comparative Statics
+- Quiz #3: Utility Maximization and Comparative Statics
+  - Quiz Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q03.pdf)
   - Answer Key: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q03-RECAP.pptx)
-- Quiz #4 
-  - Quiz Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q04.pdf): Production, Cost Minimization, and Profit Maximization
+- Quiz #4: Production, Cost Minimization, and Profit Maximization
+  - Quiz Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q04.pdf)
   - Answer Key: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q04-RECAP.pptx)
 
+## Practice Final Exam
+- Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-final/ECON300-F2023-PracticeFinal.pdf)
+- Answer Key: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-final/ECON300-F2023-PracticeFinal-RECAP.pptx)
+
 ## Final Exam
-- Practice Final 
-  - Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-final/ECON300-F2023-PracticeFinal.pdf)
-  - Answer Key: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-final/ECON300-F2023-PracticeFinal-RECAP.pptx)
-- Final Exam 
-  - Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-final/ECON300-F2023-Final.pdf)
-  - Answer Key: (Fall 2023, Placeholder)
+- Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-final/ECON300-F2023-Final.pdf)
+- Answer Key: (Fall 2023, Placeholder)
