@@ -26,13 +26,13 @@ header:
 - [Lecture Slide #11](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC11.pptx): Long Run - Capital Accumulation
 - [Lecture Slide #12](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC12.pptx): Long Run - Technological Progress
 - [Lecture Slide #13](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC13.pptx): Long Run - Discussions on Growth
-- Lecture Slide #14: Expectations - Financial Markets
-- Lecture Slide #15: Expectations - The Real Economy
-- Lecture Slide #16: Expectations - Policy Interactions
-- Lecture Slide #17: Open Economy - The Goods Market
-- Lecture Slide #18: Open Economy - The Financial Market
-- Lecture Slide #19: Open Economy - The IS-LM Framework
-- Lecture Slide #20: Open Economy - Exchange Rates
+- [Lecture Slide #14](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC14.pptx): Open Economy - Overview of Openness
+- [Lecture Slide #15](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC15.pptx): Open Economy - The Goods Market
+- Lecture Slide #16: Open Economy - The IS-LM Framework
+- Lecture Slide #17: Open Economy - Exchange Rates
+- Lecture Slide #18: Expectations - Financial Markets
+- Lecture Slide #19: Expectations - The Real Economy
+- Lecture Slide #20: Expectations - Policy Interactions
 
 ## Quizzes
 - Quiz #1: Introduction
@@ -46,11 +46,11 @@ header:
   - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q03-RECAP.pptx)
 - Quiz #4: The Long Run
   - Quiz Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q04.pdf)
-  - Answer Key: Spring 2024 (Placeholder)
-- Quiz #5: Expectations
+  - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q04-RECAP.pptx)
+- Quiz #5: The Open Economy
   - Quiz Booklet: Spring 2024 (Placeholder)
   - Answer Key: Spring 2024 (Placeholder)
-- Quiz #6: The Open Economy
+- Quiz #6: Expectations
   - Quiz Booklet: Spring 2024 (Placeholder)
   - Answer Key: Spring 2024 (Placeholder)
 
