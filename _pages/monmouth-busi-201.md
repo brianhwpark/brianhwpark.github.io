@@ -59,14 +59,14 @@ header:
   - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q05-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q05-S02-Workbook.xlsx))
   - Answer Key: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q05-S01-Workbook-sol.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q05-S02-Workbook-sol.xlsx))
 - Quiz #6: PivotTables and PivotCharts
-  - Quiz Booklet: Spring 2024 (Section #1, Section #2)
-  - Workbook: Spring 2024 (Section #1, Section #2)
+  - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q06-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q06-S02.pdf))
+  - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q06-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q06-S02-Workbook.xlsx))
   - Answer Key: Spring 2024 (Section #1, Section #2)
 
 ## Practice Final Exam
-- Booklet:
-- Workbook:
-- Answer Key:
+- Booklet: Spring 2024
+- Workbook: Spring 2024
+- Answer Key: Spring 2024
 
 ## Final Exam
 - Booklet:

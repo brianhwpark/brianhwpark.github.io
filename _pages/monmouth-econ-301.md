@@ -29,10 +29,9 @@ header:
 - [Lecture Slide #14](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC14.pptx): Open Economy - Overview of Openness
 - [Lecture Slide #15](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC15.pptx): Open Economy - The Goods Market
 - [Lecture Slide #16](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-lecture-note/ECON301-S2024-LEC16.pptx): Open Economy - The IS-LM Framework
-- Lecture Slide #17: Open Economy - Exchange Rate Regimes
-- Lecture Slide #18: Expectations - Financial Markets
-- Lecture Slide #19: Expectations - The Real Economy
-- Lecture Slide #20: Expectations - Policy Interactions
+- Lecture Slide #17: Expectations - Financial Markets (Placeholder)
+- Lecture Slide #18: Expectations - The Real Economy (Placeholder)
+- Lecture Slide #19: Expectations - Policy Interactions (Placeholder)
 
 ## Quizzes
 - Quiz #1: Introduction
@@ -48,12 +47,14 @@ header:
   - Quiz Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q04.pdf)
   - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q04-RECAP.pptx)
 - Quiz #5: The Open Economy
-  - Quiz Booklet: Spring 2024 (Placeholder)
-  - Answer Key: Spring 2024 (Placeholder)
+  - Quiz Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q05.pdf)
+  - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q05-RECAP.pptx)
 - Quiz #6: Expectations
   - Quiz Booklet: Spring 2024 (Placeholder)
   - Answer Key: Spring 2024 (Placeholder)
 
-  ## Practice Final Exam
+## Practice Final Exam
+- Spring 2024 (Placeholder)
 
-  ## Final Exam
+## Final Exam
+- Spring 2024 (Placeholder)

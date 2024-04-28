@@ -90,4 +90,3 @@ header:
 
 ## Final Exam
 - Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-final/ECON300-F2023-Final.pdf)
-- Answer Key: (Fall 2023, Placeholder)
