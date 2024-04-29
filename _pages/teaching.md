@@ -11,8 +11,7 @@ You may schedule in-person office hours through [Calendly](https://calendly.com/
 ## Monmouth College (Assistant Professor)
 - [ECON 300](/monmouth-econ-300): Intermediate Price Theory
 - [ECON 301](/monmouth-econ-301): Intermediate Macroeconomics
-- ECON 320: Economics of Strategy and Information
-- ECON 420: Topics in Economic Research
+- [ECON 350](/monmouth-econ-350-01): Economics of Strategy and Information
 - [BUSI 201](/monmouth-busi-201): Business Data Analysis
 
 ## Cornell University (Graduate Teaching Assistant)
