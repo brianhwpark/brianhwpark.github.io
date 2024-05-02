@@ -35,26 +35,27 @@ header:
 
 ## Quizzes
 - Quiz #1: Introduction
-  - Quiz Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q01.pdf)
+  - Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q01.pdf)
   - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q01-RECAP.pptx)
 - Quiz #2: The Short Run
-  - Quiz Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q02.pdf)
+  - Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q02.pdf)
   - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q02-RECAP.pptx)
 - Quiz #3: The Medium Run
-  - Quiz Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q03.pdf)
+  - Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q03.pdf)
   - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q03-RECAP.pptx)
 - Quiz #4: The Long Run
-  - Quiz Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q04.pdf)
+  - Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q04.pdf)
   - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q04-RECAP.pptx)
 - Quiz #5: The Open Economy
-  - Quiz Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q05.pdf)
+  - Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q05.pdf)
   - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-quiz/ECON301-S2024-Q05-RECAP.pptx)
 - Quiz #6: Expectations
-  - Quiz Booklet: Spring 2024 (Placeholder)
+  - Booklet: Spring 2024 (Placeholder)
   - Answer Key: Spring 2024 (Placeholder)
 
 ## Practice Final Exam
-- Spring 2024 (Placeholder)
+- Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-s2024/econ-301-s2024-final/ECON301-S2024-PracticeFinal.pdf)
+- Answer Key: Spring 2024 (Placeholder)
 
 ## Final Exam
 - Spring 2024 (Placeholder)
