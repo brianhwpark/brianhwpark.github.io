@@ -12,7 +12,7 @@ header:
 ---
 
 ## Syllabi
-- Fall 2024
+- [Fall 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-f2024/BUSI201-F2024-Syllabus.pdf)
 - [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/BUSI201-S2024-Syllabus.pdf)
 
 ## Lecture Notes & Workbooks (Spring 2024)
@@ -69,6 +69,6 @@ header:
 - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-final/BUSI201-S2024-PracticeFinal-Workbook-sol.xlsx)
 
 ## Final Exam
-- Booklet:
-- Workbook:
+- Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-final/BUSI201-S2024-Final-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-final/BUSI201-S2024-Final-S02.pdf))
+- Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-final/BUSI201-S2024-Final-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-final/BUSI201-S2024-Final-S02-Workbook.xlsx))
 - Answer Key:

@@ -10,7 +10,7 @@ header:
 ---
 
 ## Syllabi
-- Fall 2024
+- [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/ECON300-F2024-Syllabus.pdf)
 - [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/ECON300-F2023-Syllabus.pdf)
 
 ## Lecture Slides (Fall 2023)
