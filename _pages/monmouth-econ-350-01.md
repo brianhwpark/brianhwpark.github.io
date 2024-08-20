@@ -1,6 +1,6 @@
 ---
 permalink: /monmouth-econ-350-01/
-title: "Economics of Strategy and Information"
+title: "Research Methods for Social Sciences"
 header: 
   og_image: "teaching/placeholder_teaching.png"
 
@@ -9,7 +9,7 @@ header:
 #- [Artificial Neural Networks](/files/html/teaching-material/Artificial Neural Networks)
 ---
 
-Webpage Under Construction
+This course is an entry level course into causal inference in the social sciences. We will discuss topics such as endogeneity, instrument variables, regression discontinuity, and difference-in-difference estimators. 
 
 ## Syllabus
 
