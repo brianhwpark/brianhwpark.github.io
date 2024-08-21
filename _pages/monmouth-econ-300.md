@@ -13,6 +13,17 @@ header:
 - [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/ECON300-F2024-Syllabus.pdf)
 - [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/ECON300-F2023-Syllabus.pdf)
 
+## Lecture Slides (Fall 2024)
+- [Lecture Slide #00](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-lecture-note/ECON300-F2024-LEC00.pptx): Introduction
+
+## Problem Sets
+- Problem Set #1: Budget Contraints
+  - Booklet: Fall 2024 (Placeholder)
+  - Solutions: Fall 2024 (Placeholder)
+- Problem Set #2: Preferences and Indifference Curves
+  - Booklet: Fall 2024 (Placeholder)
+  - Solutions: Fall 2024 (Placeholder)
+
 ## Lecture Slides (Fall 2023)
 - [Lecture Slide #01](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC01.pptx): Math Review
 - [Lecture Slide #02 & #03](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-lecture-note/ECON300-F2023-LEC02-03.pptx): Budget Constraints

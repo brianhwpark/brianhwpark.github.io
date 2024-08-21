@@ -22,4 +22,4 @@ The following is a selection of my research projects.
 - Household Job Stability, Public Childcare, and Fertility Decisions
 - Pop Culture and Discouraged Parents (with S. Lee)
 - The Insidious Risk of Dropping Standards: Misinformation in Social Media
-- Labor Supply Shocks and Local Market Conditions: Evidence from College Admissions
+- The Crisis of Higher Education and its Impact on the Local Economy
