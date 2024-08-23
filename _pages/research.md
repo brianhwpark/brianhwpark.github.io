@@ -21,5 +21,5 @@ The following is a selection of my research projects.
 ## Work in Progress
 - Household Job Stability, Public Childcare, and Fertility Decisions
 - Pop Culture and Discouraged Parents (with S. Lee)
-- The Insidious Risk of Dropping Standards: Misinformation in Social Media
+- The Insidious Risk of Dropping Standards
 - The Crisis of Higher Education and its Impact on the Local Economy
