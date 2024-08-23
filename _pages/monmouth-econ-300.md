@@ -13,9 +13,9 @@ header:
 - [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/ECON300-F2024-Syllabus.pdf)
 - [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/ECON300-F2023-Syllabus.pdf)
 
-## Lecture Slides (Fall 2024)
-- [Lecture Slide #00](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-lecture-note/ECON300-F2024-LEC00.pptx): Introduction
-- [Lecture Slide #01](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-lecture-note/ECON300-F2024-LEC01.pptx): Math Review
+## Lecture Slides
+- [Lecture Slide #00](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-lecture-note/ECON300-LEC00.pptx): Introduction
+- [Lecture Slide #01](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-lecture-note/ECON300-LEC01.pptx): Math Review
 
 ## Problem Sets
 - Problem Set #0: Basic Math Review
@@ -25,6 +25,12 @@ header:
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-problem-set/ECON300-F2023-PS01.pdf)
   - Solution: Fall 2024 (Placeholder)
 - Problem Set #2: Preferences and Indifference Curves
+  - Booklet: Fall 2024 (Placeholder)
+  - Solution: Fall 2024 (Placeholder)
+- Problem Set #3: Consumers' Choice Part #1
+  - Booklet: Fall 2024 (Placeholder)
+  - Solution: Fall 2024 (Placeholder)
+- Problem Set #4: Consumers' Choice Part #2
   - Booklet: Fall 2024 (Placeholder)
   - Solution: Fall 2024 (Placeholder)
 
