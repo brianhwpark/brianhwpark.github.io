@@ -14,10 +14,10 @@ The following is a selection of my research projects.
   - [<i>Economic Modelling</i>](https://doi.org/10.1016/j.econmod.2021.105733), 108 (2022): 105733
 
 ## Working Papers
-- Minimum Temperature and Human Fertility
+- Climate Change as a Determinant of Migrant Family Reunification (with A. Basu, N. Chau, A. Ortiz-Bobea, F. Garip)
   - Paper (Placeholder)
   - GitHub (Placeholder)
-- Climate Change as a Determinant of Migrant Family Reunification (with A. Basu, N. Chau, A. Ortiz-Bobea, F. Garip)
+- The Effect of Minimum Temperature on Human Fertility
   - Paper (Placeholder)
   - GitHub (Placeholder)
 
