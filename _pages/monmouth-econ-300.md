@@ -41,18 +41,18 @@ header:
 ## Problem Sets
 - Problem Set #0: Math Review
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-problem-set/ECON300-F2024-PS00.pdf)
-  - Solution: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-problem-set/ECON300-F2024-PS00-sol.pdf)
+  - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-problem-set/ECON300-F2024-PS00-sol.pdf)
 - Problem Set #1: Budget Contraints
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-problem-set/ECON300-F2024-PS01.pdf)
-  - Solution: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-problem-set/ECON300-F2024-PS01-sol.pdf)
+  - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-problem-set/ECON300-F2024-PS01-sol.pdf)
 - Problem Set #2: Preferences and Indifference Curves
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-problem-set/ECON300-F2024-PS02.pdf)
-  - Solution: Fall 2024 (Placeholder) <!-- (/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-problem-set/ECON300-F2024-PS02-sol.pdf) -->
+  - Solutions: Fall 2024 (Placeholder) <!-- (/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-problem-set/ECON300-F2024-PS02-sol.pdf) -->
 
 ## Quizzes
 - Quiz #1: Budget Contraints
-  - Booklet: Fall 2024 (Placeholder)
-  - Solution: Fall 2024 (Placeholder)
+  - Booklet: Fall 2024 (Placeholder) <!-- (/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-quiz/ECON300-F2024-Q01.pdf) -->
+  - Solutions: Fall 2024 (Placeholder) <!-- (/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-quiz/ECON300-F2024-Q01-RECAP.pptx) -->
 
 ## Supplements
 - [Handout #1](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2024-handout/ECON300-F2024-H01.pdf): Systems of Equations and Exponents

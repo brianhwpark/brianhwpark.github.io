@@ -15,7 +15,7 @@ header:
 - [Fall 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-f2024/BUSI201-F2024-Syllabus.pdf)
 - [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/BUSI201-S2024-Syllabus.pdf)
 
-## Lecture Notes & Workbooks (Spring 2024)
+## Lecture Notes & Workbooks
 - [Lecture Note #01](/files/teaching-resources/monmouthcollege-busi-201/busi-201-lecture-notes/BUSI201-LEC01.pdf): Excel Basics Part 1
 - [Lecture Note #02](/files/teaching-resources/monmouthcollege-busi-201/busi-201-lecture-notes/BUSI201-LEC02.pdf) & [Workbook #02](/files/teaching-resources/monmouthcollege-busi-201/busi-201-workbooks/BUSI201-LEC02-Workbook.xlsx): Excel Basics Part 2
 - [Lecture Note #03](/files/teaching-resources/monmouthcollege-busi-201/busi-201-lecture-notes/BUSI201-LEC03.pdf) & [Workbook #03](/files/teaching-resources/monmouthcollege-busi-201/busi-201-workbooks/BUSI201-LEC03-Workbook.xlsx): Functions Part 1
@@ -39,9 +39,9 @@ header:
 
 ## Quizzes
 - Quiz #1: Excel Basics
-  - Quiz Booklet: Fall 2024 (Placeholder), [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01.pdf)
-  - Workbook: Fall 2024 (Placeholder), [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01-Workbook.xlsx)
-  - Answer Key: Fall 2024 (Placeholder), [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01-Workbook-Sol.xlsx)
+  - Quiz Booklet: Fall 2024 (Placeholder)<!--(/files/teaching-resources/monmouthcollege-busi-201/busi-201-f2024/busi-201-f2024-quiz/BUSI201-F2024-Q01.pdf)-->, [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01.pdf)
+  - Workbook: Fall 2024 (Placeholder)<!--(/files/teaching-resources/monmouthcollege-busi-201/busi-201-f2024/busi-201-f2024-quiz/BUSI201-F2024-Q01-Workbook.xlsx)-->, [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01-Workbook.xlsx)
+  - Answer Key: Fall 2024 (Placeholder)<!--(/files/teaching-resources/monmouthcollege-busi-201/busi-201-f2024/busi-201-f2024-quiz/BUSI201-F2024-Q01-Workbook-Sol.xlsx)-->, [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01-Workbook-Sol.xlsx)
 - Quiz #2: Functions #1
   - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S02.pdf))
   - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S02-Workbook.xlsx))
