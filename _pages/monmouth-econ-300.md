@@ -51,8 +51,8 @@ header:
 
 ## Quizzes
 - Quiz #1: Budget Contraints
-  - Booklet: Fall 2024 (Placeholder) <!-- (/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-quiz/ECON300-F2024-Q01.pdf) -->
-  - Solutions: Fall 2024 (Placeholder) <!-- (/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-quiz/ECON300-F2024-Q01-RECAP.pptx) -->
+  - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-quiz/ECON300-F2024-Q01.pdf)
+  - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-quiz/ECON300-F2024-Q01-RECAP.pptx)
 
 ## Supplements
 - [Handout #1](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2024-handout/ECON300-F2024-H01.pdf): Systems of Equations and Exponents
