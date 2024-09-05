@@ -38,6 +38,14 @@ header:
 - [Lecture Slide #21](/files/teaching-resources/monmouthcollege-econ-300/econ-300-lecture-note/ECON300-LEC21.pptx): Static Games
 - [Lecture Slide #22](/files/teaching-resources/monmouthcollege-econ-300/econ-300-lecture-note/ECON300-LEC22.pptx): Dynamic Games
 
+## Supplements
+- [Handout #1](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2024-handout/ECON300-F2024-H01.pdf): Systems of Equations and Exponents
+- [Handout #2](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2024-handout/ECON300-F2024-H02.pdf): Slopes of Linear and Quadratic Functions
+- [Handout #3](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2024-handout/ECON300-F2024-H03.pdf): Derivatives
+- [Handout #4](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2024-handout/ECON300-F2024-H04.pdf): Partial Derivatives
+- [Handout #5](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2024-handout/ECON300-F2024-H05.pdf): Cheat-Sheet for Derivatives
+- [Handout #6](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2024-handout/ECON300-F2024-H06.pdf): Geometric Series
+
 ## Problem Sets
 - Problem Set #0: Math Review
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-problem-set/ECON300-F2024-PS00.pdf)
@@ -51,16 +59,15 @@ header:
 
 ## Quizzes
 - Quiz #1: Budget Contraints
-  - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-quiz/ECON300-F2024-Q01.pdf)
-  - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-quiz/ECON300-F2024-Q01-RECAP.pptx)
+  - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-quiz/ECON300-F2024-Q01.pdf), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q01.pdf)
+  - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2024/econ-300-f2024-quiz/ECON300-F2024-Q01-RECAP.pptx), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q01-RECAP.pptx)
 
-## Supplements
-- [Handout #1](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2024-handout/ECON300-F2024-H01.pdf): Systems of Equations and Exponents
-- [Handout #2](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2024-handout/ECON300-F2024-H02.pdf): Slopes of Linear and Quadratic Functions
-- [Handout #3](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2024-handout/ECON300-F2024-H03.pdf): Derivatives
-- [Handout #4](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2024-handout/ECON300-F2024-H04.pdf): Partial Derivatives
-- [Handout #5](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2024-handout/ECON300-F2024-H05.pdf): Cheat-Sheet for Derivatives
-- [Handout #6](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2024-handout/ECON300-F2024-H06.pdf): Geometric Series
+## Practice Final Exam
+- Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-final/ECON300-F2023-PracticeFinal.pdf)
+- Answer Key: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-final/ECON300-F2023-PracticeFinal-RECAP.pptx)
+
+## Final Exam
+- Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-final/ECON300-F2023-Final.pdf)
 
 ## Past Problem Sets: Less "Organized"
 - Problem Set #1 
@@ -86,9 +93,6 @@ header:
   - Answer Key #7 [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-problem-set/ECON300-F2023-PS07-Sol.pdf)
 
 ## Past Quizzes
-- Quiz #1: Budget Constraints
-  - Quiz Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q01.pdf)
-  - Answer Key: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q01-RECAP.pptx)
 - Quiz #2: Preferences, Utility, UMP Intro
   - Quiz Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q02.pdf)
   - Answer Key: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q02-RECAP.pptx)
@@ -99,9 +103,3 @@ header:
   - Quiz Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q04.pdf)
   - Answer Key: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-quiz/ECON300-F2023-Q04-RECAP.pptx)
 
-## Practice Final Exam
-- Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-final/ECON300-F2023-PracticeFinal.pdf)
-- Answer Key: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-final/ECON300-F2023-PracticeFinal-RECAP.pptx)
-
-## Final Exam
-- Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-f2023/econ-300-f2023-final/ECON300-F2023-Final.pdf)
