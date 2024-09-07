@@ -12,8 +12,9 @@ header:
 ---
 
 ## Syllabi
-- [Fall 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-f2024/BUSI201-F2024-Syllabus.pdf)
-- [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/BUSI201-S2024-Syllabus.pdf)
+- [Fall 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-syllabus/BUSI201-F2024-Syllabus.pdf)
+- [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-syllabus/BUSI201-S2024-Syllabus.pdf)
+- [Fall 2023](/files/teaching-resources/monmouthcollege-busi-201/busi-201-syllabus/BUSI201-F2023-Syllabus.pdf)
 
 ## Lecture Notes & Workbooks
 - [Lecture Note #01](/files/teaching-resources/monmouthcollege-busi-201/busi-201-lecture-notes/BUSI201-LEC01.pdf): Excel Basics Part 1
@@ -39,35 +40,35 @@ header:
 
 ## Quizzes
 - Quiz #1: Excel Basics
-  - Quiz Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-f2024/busi-201-f2024-quiz/BUSI201-F2024-Q01.pdf), [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01.pdf)
-  - Workbook: [Fall 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-f2024/busi-201-f2024-quiz/BUSI201-F2024-Q01-Workbook.xlsx), [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01-Workbook.xlsx)
-  - Answer Key: [Fall 2024](files/teaching-resources/monmouthcollege-busi-201/busi-201-f2024/busi-201-f2024-quiz/BUSI201-F2024-Q01-Workbook-Sol.xlsx), [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q01-Workbook-Sol.xlsx)
+  - Quiz Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/f2024/BUSI201-F2024-Q01.pdf), [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q01.pdf)
+  - Workbook: [Fall 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/f2024/BUSI201-F2024-Q01-Workbook.xlsx), [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q01-Workbook.xlsx)
+  - Answer Key: [Fall 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/f2024/BUSI201-F2024-Q01-Workbook-Sol.xlsx), [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q01-Workbook-Sol.xlsx)
 - Quiz #2: Functions #1
-  - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S02.pdf))
-  - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S02-Workbook.xlsx))
-  - Answer Key: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S01-Workbook-sol.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q02-S02-Workbook-sol.xlsx))
+  - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q02-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q02-S02.pdf))
+  - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q02-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q02-S02-Workbook.xlsx))
+  - Answer Key: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q02-S01-Workbook-sol.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q02-S02-Workbook-sol.xlsx))
 - Quiz #3: Functions #2
-  - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q03-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q03-S02.pdf))
-  - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q03-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q03-S02-Workbook.xlsx))
-  - Answer Key: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q03-S01-Workbook-sol.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q03-S02-Workbook-sol.xlsx))
+  - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q03-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q03-S02.pdf))
+  - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q03-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q03-S02-Workbook.xlsx))
+  - Answer Key: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q03-S01-Workbook-sol.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q03-S02-Workbook-sol.xlsx))
 - Quiz #4: Filtering and Conditional Formatting
-  - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q04-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q04-S02.pdf))
-  - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q04-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q04-S02-Workbook.xlsx))
-  - Answer Key: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q04-S01-Workbook-sol.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q04-S02-Workbook-sol.xlsx))
+  - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q04-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q04-S02.pdf))
+  - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q04-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q04-S02-Workbook.xlsx))
+  - Answer Key: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q04-S01-Workbook-sol.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q04-S02-Workbook-sol.xlsx))
 - Quiz #5: Charts
-  - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q05-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q05-S02.pdf))
-  - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q05-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q05-S02-Workbook.xlsx))
-  - Answer Key: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q05-S01-Workbook-sol.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q05-S02-Workbook-sol.xlsx))
+  - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q05-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q05-S02.pdf))
+  - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q05-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q05-S02-Workbook.xlsx))
+  - Answer Key: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q05-S01-Workbook-sol.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q05-S02-Workbook-sol.xlsx))
 - Quiz #6: PivotTables and PivotCharts
-  - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q06-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q06-S02.pdf))
-  - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q06-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q06-S02-Workbook.xlsx))
-  - Answer Key: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q06-S01-Workbook-sol.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-quiz/BUSI201-S2024-Q06-S02-Workbook-sol.xlsx))
+  - Quiz Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q06-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q06-S02.pdf))
+  - Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q06-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q06-S02-Workbook.xlsx))
+  - Answer Key: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q06-S01-Workbook-sol.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-quiz/s2024/BUSI201-S2024-Q06-S02-Workbook-sol.xlsx))
 
 ## Practice Final Exam
-- Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-final/BUSI201-S2024-PracticeFinal.pdf)
-- Workbook: [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-final/BUSI201-S2024-PracticeFinal-Workbook.xlsx)
-- Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-final/BUSI201-S2024-PracticeFinal-Workbook-sol.xlsx)
+- Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-final/s2024/BUSI201-S2024-PracticeFinal.pdf)
+- Workbook: [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-final/s2024/BUSI201-S2024-PracticeFinal-Workbook.xlsx)
+- Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-final/s2024/BUSI201-S2024-PracticeFinal-Workbook-sol.xlsx)
 
 ## Final Exam
-- Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-final/BUSI201-S2024-Final-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-final/BUSI201-S2024-Final-S02.pdf))
-- Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-final/BUSI201-S2024-Final-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-s2024/busi-201-s2024-final/BUSI201-S2024-Final-S02-Workbook.xlsx))
+- Booklet: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-final/s2024/BUSI201-S2024-Final-S01.pdf), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-final/s2024/BUSI201-S2024-Final-S02.pdf))
+- Workbook: Spring 2024 ([Section #1](/files/teaching-resources/monmouthcollege-busi-201/busi-201-final/s2024/BUSI201-S2024-Final-S01-Workbook.xlsx), [Section #2](/files/teaching-resources/monmouthcollege-busi-201/busi-201-final/s2024/BUSI201-S2024-Final-S02-Workbook.xlsx))

@@ -15,15 +15,15 @@ The following is a selection of my research projects.
 
 ## Working Papers
 - Climate Change as a Determinant of Migrant Family Reunification (with A. Basu, N. Chau, A. Ortiz-Bobea, F. Garip)
-  - Paper (Placeholder)
-  - GitHub (Placeholder)
+  - Paper (Placeholder: To be uploaded by Nov. 1st, 2024)
+  - GitHub (Placeholder: To be uploaded by Nov. 1st, 2024)
 - The Effect of Minimum Temperature on Human Fertility
-  - Paper (Placeholder)
-  - GitHub (Placeholder)
+  - Paper (Placeholder: To be uploaded by Nov. 1st, 2024)
+  - GitHub (Placeholder: To be uploaded by Nov. 1st, 2024)
 
 ## Work in Progress
 - Household Job Stability, Public Childcare, and Fertility Decisions
 - Pop Culture and Discouraged Parents (with S. Lee)
 - The Insidious Risk of Dropping Standards
 - The Crisis of Higher Education and its Impact on the Local Economy
-  - GitHub (Placeholder)
+  - GitHub (Placeholder: To be uploaded by Nov. 1st, 2024)
