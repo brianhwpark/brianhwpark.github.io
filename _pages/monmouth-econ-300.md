@@ -56,7 +56,7 @@ header:
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS02.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS02-sol.pdf)
 - Problem Set #3: Utility Maximization
-  - Booklet: Fall 2024 (Placeholder)
+  - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS03.pdf)
   - Solutions: Fall 2024 (Placeholder)
 
 ## Quizzes
@@ -64,8 +64,8 @@ header:
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q01.pdf), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2023/ECON300-F2023-Q01.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q01-RECAP.pptx), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2023/ECON300-F2023-Q01-RECAP.pptx)
 - Quiz #2: Preferences, Utility, and Indifference Curves
-  - Booklet: Fall 2024 (Placeholder)<!--[Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q02.pdf)-->
-  - Solutions: Fall 2024 (Placeholder)<!--[Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q02-RECAP.pptx)-->
+  - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q02.pdf)
+  - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q02-RECAP.pptx)
 - Quiz #3: Utility Maximization
   - Booklet: Fall 2024 (Placeholder)
   - Solutions: Fall 2024 (Placeholder)
