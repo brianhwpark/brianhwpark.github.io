@@ -57,7 +57,7 @@ header:
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS02-sol.pdf)
 - Problem Set #3: Utility Maximization
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS03.pdf)
-  - Solutions: Fall 2024 (Placeholder)<!--[Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS03-sol.pdf)-->
+  - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS03-sol.pdf)
 
 ## Quizzes
 - Quiz #1: Budget Contraints
