@@ -20,7 +20,7 @@ header:
 - [Lecture Slide #03](/files/teaching-resources/monmouthcollege-econ-300/econ-300-lecture-note/ECON300-LEC03.pptx): Preferences and Utility
 - [Lecture Slide #04](/files/teaching-resources/monmouthcollege-econ-300/econ-300-lecture-note/ECON300-LEC04.pptx): Indifference Curves Part #1
 - [Lecture Slide #05](/files/teaching-resources/monmouthcollege-econ-300/econ-300-lecture-note/ECON300-LEC05.pptx): Indifference Curves Part #2
-- [Lecture Slide #06](/files/teaching-resources/monmouthcollege-econ-300/econ-300-lecture-note/ECON300-LEC06.pptx): Utility Maximization Problem (UMP)
+- [Lecture Slide #06](/files/teaching-resources/monmouthcollege-econ-300/econ-300-lecture-note/ECON300-LEC06.pptx): The Utility Maximization Problem (UMP)
 - [Lecture Slide #07](/files/teaching-resources/monmouthcollege-econ-300/econ-300-lecture-note/ECON300-LEC07.pptx): UMP with Calculus
 - [Lecture Slide #08](/files/teaching-resources/monmouthcollege-econ-300/econ-300-lecture-note/ECON300-LEC08.pptx): Special Cases in the UMP
 - [Lecture Slide #09](/files/teaching-resources/monmouthcollege-econ-300/econ-300-lecture-note/ECON300-LEC09.pptx): UMP Comparative Statics Part #1
@@ -55,9 +55,12 @@ header:
 - Problem Set #2: Preferences, Utility, and Indifference Curves
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS02.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS02-sol.pdf)
-- Problem Set #3: Utility Maximization
+- Problem Set #3: The Utility Maximization Problem (UMP)
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS03.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS03-sol.pdf)
+- Problem Set #4: Comparative Statics of the UMP
+  - Booklet: Fall 2024 (Placeholder)
+  - Solutions: Fall 2024 (Placeholder)
 
 ## Quizzes
 - Quiz #1: Budget Contraints
@@ -67,8 +70,8 @@ header:
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q02.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q02-RECAP.pptx)
 - Quiz #3: Utility Maximization
-  - Booklet: Fall 2024 (Placeholder)
-  - Solutions: Fall 2024 (Placeholder)
+  - Booklet: Fall 2024 (Placeholder) <!--[Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q03.pdf)-->
+  - Solutions: Fall 2024 (Placeholder) <!--[Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q03-RECAP.pptx)-->
 
 ## Practice Final Exam
 - Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-PracticeFinal.pdf)
