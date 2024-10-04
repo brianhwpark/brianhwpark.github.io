@@ -70,8 +70,8 @@ header:
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q02.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q02-RECAP.pptx)
 - Quiz #3: Utility Maximization
-  - Booklet: Fall 2024 (Placeholder) <!--[Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q03.pdf)-->
-  - Solutions: Fall 2024 (Placeholder) <!--[Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q03-RECAP.pptx)-->
+  - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q03.pdf)
+  - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q03-RECAP.pptx)
 
 ## Practice Final Exam
 - Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-PracticeFinal.pdf)
