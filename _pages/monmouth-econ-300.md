@@ -58,10 +58,13 @@ header:
 - Problem Set #3: The Utility Maximization Problem (UMP)
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS03.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS03-sol.pdf)
-- Problem Set #4: Comparative Statics of the UMP
+- Problem Set #4: Comparative Statics of the UMP #1
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS04.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS04-sol.pdf)
-- Problem Set #5: Comparative Statics of the UMP
+- Problem Set #5: Comparative Statics of the UMP #2
+  - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS05.pdf)
+  - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS05-sol.pdf)
+- Problem Set #6: The Cost Minimization Problem (CMP)
   - Booklet: Fall 2024 (Placeholder)
   - Solutions: Fall 2024 (Placeholder)
 
