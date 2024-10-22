@@ -110,7 +110,7 @@ header:
   - Answer Key: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2023/ECON300-F2023-PS06-Sol.pdf)
 - Problem Set #7
   - Problem Set: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2023/ECON300-F2023-PS07.pdf)
-  - Answer Key #7 [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2023/ECON300-F2023-PS07-Sol.pdf)
+  - Answer Key: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2023/ECON300-F2023-PS07-Sol.pdf)
 
 ## Past Quizzes
 - Quiz #2: Preferences, Utility, UMP Intro

@@ -10,7 +10,7 @@ header:
 The following is a selection of my research projects.
 
 ## Published Work
-- [Rethinking Border Enforcement, Permanent and Circular Migration](/files/research-resources/2022-rethinking-border-enforcement.pdf) (with A. Basu and N. Chau)
+- [Rethinking Border Enforcement, Permanent and Circular Migration](/files/research-resources/project-janus/2022-rethinking-border-enforcement.pdf) (with A. Basu and N. Chau)
   - [<i>Economic Modelling</i>](https://doi.org/10.1016/j.econmod.2021.105733), 108 (2022): 105733
 
 ## Working Papers
