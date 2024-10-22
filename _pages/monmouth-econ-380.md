@@ -12,7 +12,7 @@ header:
 COURSE TO BE OFFERED SPRING 2025: UNDER CONSTRUCTION
 
 ## Syllabus
-
+- Spring 2025 (Placeholder)
 
 ## Lecture Slides
 
