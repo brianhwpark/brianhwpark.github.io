@@ -65,6 +65,9 @@ header:
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS05.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS05-sol.pdf)
 - Problem Set #6: The Cost Minimization Problem (CMP)
+  - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS06.pdf)
+  - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS06-sol.pdf)
+- Problem Set #7: CMP and Profit Maximization
   - Booklet: Fall 2024 (Placeholder)
   - Solutions: Fall 2024 (Placeholder)
 
@@ -79,6 +82,9 @@ header:
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q03.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q03-RECAP.pptx)
 - Quiz #4: Comparative Statics of the UMP
+  - Booklet: Fall 2024 (Placeholder)
+  - Solutions: Fall 2024 (Placeholder)
+- Quiz #5: Producer Theory
   - Booklet: Fall 2024 (Placeholder)
   - Solutions: Fall 2024 (Placeholder)
 
