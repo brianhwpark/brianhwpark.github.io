@@ -58,19 +58,22 @@ header:
 - Problem Set #3: The Utility Maximization Problem (UMP)
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS03.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS03-sol.pdf)
-- Problem Set #4 Part #1: Comparative Statics of the UMP #1
+- Problem Set #4 Part 1: Comparative Statics of the UMP #1
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS04-01.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS04-01-sol.pdf)
-- Problem Set #4 Part #2: Comparative Statics of the UMP #1
+- Problem Set #4 Part 2: Comparative Statics of the UMP #1
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS04-02.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS04-02-sol.pdf)
-- Problem Set #5 Part #1: The Cost Minimization Problem (CMP)
+- Problem Set #5 Part 1: The Cost Minimization Problem (CMP)
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS05-01.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS05-01-sol.pdf)
-- Problem Set #5 Part #2: CMP and Profit Maximization
+- Problem Set #5 Part 2: CMP and Profit Maximization
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS05-02.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS05-02-sol.pdf)
-- Problem Set #6: Demand, Supply, and Market Structures
+- Problem Set #6 Part 1: Equilibria and Government Interventions
+  - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS06-01.pdf)
+  - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS06-01-sol.pdf)
+- Problem Set #6 Part 2: Market Structures and Competition
   - Booklet: Fall 2024 (Placeholder)
   - Solutions: Fall 2024 (Placeholder)
 
@@ -88,9 +91,9 @@ header:
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q04.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q04-RECAP.pptx)
 - Quiz #5: Producer Theory
-  - Booklet: Fall 2024 (Placeholder)
-  - Solutions: Fall 2024 (Placeholder)
-- Quiz #6: Demand, Supply, and Market Structures
+  - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q05.pdf)
+  - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q05-RECAP.pptx)
+- Quiz #6: Market Equilibria and Market Structures
   - Booklet: Fall 2024 (Placeholder)
   - Solutions: Fall 2024 (Placeholder)
 
