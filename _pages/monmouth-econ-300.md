@@ -76,10 +76,7 @@ header:
 - Problem Set #6 Part 2: Monopolies and Monopsonies
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS06-02.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS06-02-sol.pdf)
-- Problem Set #7 Part 1: Oligopolies
-  - Booklet: Fall 2024 (Placeholder)
-  - Solutions: Fall 2024 (Placeholder)
-- Problem Set #7 Part 2: Game Theory
+- Problem Set #7: Oligopolies and Game Theory
   - Booklet: Fall 2024 (Placeholder)
   - Solutions: Fall 2024 (Placeholder)
 
