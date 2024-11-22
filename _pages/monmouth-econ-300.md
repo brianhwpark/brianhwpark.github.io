@@ -97,15 +97,15 @@ header:
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q05.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q05-RECAP.pptx)
 - Quiz #6: Market Equilibria and Market Structures
-  - Booklet: Fall 2024 (Placeholder)
-  - Solutions: Fall 2024 (Placeholder)
+  - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q06.pdf)
+  - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q06-RECAP.pptx)
 
 ## Practice Final Exam
-- Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-PracticeFinal.pdf)
-- Answer Key: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-PracticeFinal-RECAP.pptx)
+- Booklet: Fall 2024 (Placeholder), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-PracticeFinal.pdf)
+- Answer Key: Fall 2024 (Placeholder), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-PracticeFinal-RECAP.pptx)
 
 ## Final Exam
-- Booklet: [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-Final.pdf)
+- Booklet: Fall 2024 (Placeholder), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-Final.pdf)
 
 ## Past Problem Sets: Less "Organized"
 - Problem Set #1 
