@@ -76,9 +76,12 @@ header:
 - Problem Set #6 Part 2: Monopolies and Monopsonies
   - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS06-02.pdf)
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS06-02-sol.pdf)
-- Problem Set #7: Oligopolies and Game Theory
-  - Booklet: Fall 2024 (Placeholder)
-  - Solutions: Fall 2024 (Placeholder)
+- Problem Set #7 Part 1: Oligopolies and Game Theory
+  - Booklet: N/A
+  - Solutions: N/A
+- Problem Set #7 Part 2: Introduction to Game Theory
+  - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS07-02.pdf)
+  - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-problem-set/f2024/ECON300-F2024-PS07-02-sol.pdf)
 
 ## Quizzes
 - Quiz #1: Budget Contraints
@@ -101,11 +104,12 @@ header:
   - Solutions: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-quiz/f2024/ECON300-F2024-Q06-RECAP.pptx)
 
 ## Practice Final Exam
-- Booklet: Fall 2024 (Placeholder), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-PracticeFinal.pdf)
-- Answer Key: Fall 2024 (Placeholder), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-PracticeFinal-RECAP.pptx)
+- Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2024/ECON300-F2024-PracticeFinal.pdf), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-PracticeFinal.pdf)
+- Answer Key: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2024/ECON300-F2024-PracticeFinal-RECAP.pptx), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-PracticeFinal-RECAP.pptx)
 
 ## Final Exam
 - Booklet: Fall 2024 (Placeholder), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-Final.pdf)
+- Answer Key: Fall 2024 (Placeholder), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-Final-RECAP.pptx)
 
 ## Past Problem Sets: Less "Organized"
 - Problem Set #1 
