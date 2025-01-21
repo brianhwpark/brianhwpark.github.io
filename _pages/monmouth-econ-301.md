@@ -10,7 +10,7 @@ header:
 ---
 
 ## Syllabi
-- Spring 2025 (Placeholder)
+- [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-syllabus/ECON301-S2025-Syllabus.pdf)
 - [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-syllabus/ECON301-S2024-Syllabus.pdf)
 
 ## Lecture Slides (Spring 2024)

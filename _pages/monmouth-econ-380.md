@@ -9,21 +9,11 @@ header:
 #- [Artificial Neural Networks](/files/html/teaching-material/Artificial Neural Networks)
 ---
 
-COURSE TO BE OFFERED SPRING 2025: UNDER CONSTRUCTION
-
 ## Syllabus
-- Spring 2025 (Placeholder)
+- [Spring 2025](/files/teaching-resources/monmouthcollege-econ-380/econ380-syllabus/ECON380-S2025-Syllabus.pdf)
 
 ## Lecture Slides
 
 
 ## Supplements
 
-
-## Problem Sets
-
-
-## Quizzes
-
-
-## Final Exam

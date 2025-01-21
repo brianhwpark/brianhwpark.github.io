@@ -12,7 +12,7 @@ header:
 ---
 
 ## Syllabi
-- Spring 2025 (Placeholder)
+- [Spring 2025](/files/teaching-resources/monmouthcollege-busi-201/busi-201-syllabus/BUSI201-S2025-Syllabus.pdf)
 - [Fall 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-syllabus/BUSI201-F2024-Syllabus.pdf)
 - [Spring 2024](/files/teaching-resources/monmouthcollege-busi-201/busi-201-syllabus/BUSI201-S2024-Syllabus.pdf)
 - [Fall 2023](/files/teaching-resources/monmouthcollege-busi-201/busi-201-syllabus/BUSI201-F2023-Syllabus.pdf)
