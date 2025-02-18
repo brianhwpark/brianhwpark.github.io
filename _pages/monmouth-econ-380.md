@@ -14,12 +14,9 @@ header:
 
 ## Lecture Slides
 - [Lecture Slide #01](/files/teaching-resources/monmouthcollege-econ-380/econ-380-slides/ECON380-LEC01.pptx): Introduction
-- [Lecture Slide #02](/files/teaching-resources/monmouthcollege-econ-380/econ-380-slides/ECON380-LEC02.pptx): Externalities and Public Goods
+- [Lecture Slide #02](/files/teaching-resources/monmouthcollege-econ-380/econ-380-slides/ECON380-LEC02.pptx): Externalities
 - [Lecture Slide #03](/files/teaching-resources/monmouthcollege-econ-380/econ-380-slides/ECON380-LEC03.pptx): The Coase Theorem
 - [Lecture Slide #04](/files/teaching-resources/monmouthcollege-econ-380/econ-380-slides/ECON380-LEC04.pptx): Standards and Taxation
-- [Lecture Slide #05](/files/teaching-resources/monmouthcollege-econ-380/econ-380-slides/ECON380-LEC05.pptx): Permits
+- [Lecture Slide #05](/files/teaching-resources/monmouthcollege-econ-380/econ-380-slides/ECON380-LEC05.pptx): Tradable Permits
 - [Lecture Slide #06](/files/teaching-resources/monmouthcollege-econ-380/econ-380-slides/ECON380-LEC06.pptx): Crash Course in Econometrics
 - [Lecture Slide #07](/files/teaching-resources/monmouthcollege-econ-380/econ-380-slides/ECON380-LEC07.pptx): Crash Course in Causal Inference
-
-## Supplements
-
