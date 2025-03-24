@@ -36,8 +36,8 @@ header:
   - Booklet: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2025-Q01.pdf), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q01.pdf)
   - Answer Key: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2025-Q01-RECAP.pptx), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q01-RECAP.pptx)
 - Quiz #2: The Short Run
-  - Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q02.pdf)
-  - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q02-RECAP.pptx)
+  - Booklet: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2025-Q02.pdf), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q02.pdf)
+  - Answer Key: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2025-Q02-RECAP.pptx), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q02-RECAP.pptx)
 - Quiz #3: The Medium Run
   - Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q03.pdf)
   - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q03-RECAP.pptx)
