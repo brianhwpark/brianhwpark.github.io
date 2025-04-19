@@ -29,7 +29,6 @@ header:
 - [Lecture Slide #13](/files/teaching-resources/monmouthcollege-econ-301/econ-301-lecture-note/ECON301-LEC13.pptx): Open Economy - Overview of Openness
 - [Lecture Slide #14](/files/teaching-resources/monmouthcollege-econ-301/econ-301-lecture-note/ECON301-LEC14.pptx): Open Economy - The Goods Market
 - [Lecture Slide #15](/files/teaching-resources/monmouthcollege-econ-301/econ-301-lecture-note/ECON301-LEC15.pptx): Open Economy - The IS-LM Framework
-- Lecture Slide #16 (Placeholder): Expectations 
 
 ## Quizzes
 - Quiz #1: Introduction
@@ -42,8 +41,8 @@ header:
   - Booklet: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2025-Q03.pdf), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q03.pdf)
   - Answer Key: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2025-Q03-RECAP.pptx), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q03-RECAP.pptx)
 - Quiz #4: The Long Run
-  - Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q04.pdf)
-  - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q04-RECAP.pptx)
+  - Booklet: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2025-Q04.pdf), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q04.pdf)
+  - Answer Key: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2025-Q04-RECAP.pptx), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q04-RECAP.pptx)
 - Quiz #5: The Open Economy
   - Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q05.pdf)
   - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q05-RECAP.pptx)
