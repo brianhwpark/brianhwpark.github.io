@@ -44,8 +44,8 @@ header:
   - Booklet: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2025-Q04.pdf), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q04.pdf)
   - Answer Key: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2025-Q04-RECAP.pptx), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q04-RECAP.pptx)
 - Quiz #5: The Open Economy
-  - Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q05.pdf)
-  - Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q05-RECAP.pptx)
+  - Booklet: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2025-Q05.pdf), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q05.pdf)
+  - Answer Key: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2025-Q05-RECAP.pptx), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q05-RECAP.pptx)
 
 ## Practice Final Exam
 - Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-final/ECON301-S2024-PracticeFinal.pdf)
