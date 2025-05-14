@@ -47,9 +47,6 @@ header:
   - Booklet: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2025-Q05.pdf), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q05.pdf)
   - Answer Key: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2025-Q05-RECAP.pptx), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-quiz/ECON301-S2024-Q05-RECAP.pptx)
 
-## Practice Final Exam
-- Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-final/ECON301-S2024-PracticeFinal.pdf)
-- Answer Key: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-final/ECON301-S2024-PracticeFinal-RECAP.pptx)
-
 ## Final Exam
-- Booklet: [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-final/ECON301-S2024-Final.pdf)
+- Booklet: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-final/ECON301-S2025-Final.pdf), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-final/ECON301-S2024-Final.pdf), [Practice Final](/files/teaching-resources/monmouthcollege-econ-301/econ-301-final/ECON301-S2024-PracticeFinal.pdf)
+- Answer Key: [Spring 2025](/files/teaching-resources/monmouthcollege-econ-301/econ-301-final/ECON301-S2025-Final-RECAP.pptx), [Spring 2024](/files/teaching-resources/monmouthcollege-econ-301/econ-301-final/ECON301-S2024-Final-RECAP.pptx), [Practice Final](/files/teaching-resources/monmouthcollege-econ-301/econ-301-final/ECON301-S2024-PracticeFinal-RECAP.pptx)
