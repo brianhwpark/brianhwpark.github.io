@@ -109,4 +109,4 @@ header:
 
 ## Final Exam
 - Booklet: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2024/ECON300-F2024-Final.pdf), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-Final.pdf)
-- Answer Key: Fall 2024 (Placeholder), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-Final-RECAP.pptx)
+- Answer Key: [Fall 2024](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2024/ECON300-F2024-Final-RECAP.pptx), [Fall 2023](/files/teaching-resources/monmouthcollege-econ-300/econ-300-final/f2023/ECON300-F2023-Final-RECAP.pptx)
