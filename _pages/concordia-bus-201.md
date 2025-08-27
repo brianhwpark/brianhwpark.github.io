@@ -10,19 +10,8 @@ header:
 ---
 
 ## Syllabus
-- [Fall 2025] (Placeholder)
+- [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-syllabus/BUS201-F2025-Syllabus.pdf)
 
 ## Lecture Slides
-- [Lecture Slide #00] (Placeholder)
-
-## Supplements
-- [Handout #1] (Placeholder)
-
-## Problem Sets
-- Problem Set #0: Math Review
-  - Booklet: [Fall 2025] (Placeholder)
-  - Solutions: [Fall 2025] (Placeholder)
-
-## Final Exam
-- Booklet: [Fall 2025] (Placeholder)
-- Answer Key: [Fall 2025] (Placeholder)
+- [Lecture Slide #00](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-notes/bus201-ch00-introduction.pptx)
+- [Lecture Slide #01](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-notes/bus201-ch01-ten-principles.pptx)
