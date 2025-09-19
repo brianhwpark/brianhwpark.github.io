@@ -15,6 +15,7 @@ The following is a selection of my research projects.
 
 ## Working Papers
 - Climate Change as a Determinant of Migrant Family Reunification (with A. Basu, N. Chau, A. Ortiz-Bobea, F. Garip)
+  - [Working Paper: August 2025](/files/research-resources/project-altair/2025-climate-change-as-a-determinant-of-migrant-family-reunification.pdf)
 - The Effect of Minimum Temperature on Human Fertility
 
 ## Work in Progress
