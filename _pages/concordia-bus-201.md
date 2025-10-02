@@ -19,13 +19,15 @@ header:
 - [Lecture Slide #03](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch03.pptx): Interdependence and the Gains from Trade
 - [Lecture Slide #04](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch04.pptx): The Market Forces of Supply and Demand
 - [Lecture Slide #05](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch05.pptx): Elasticity and its Application
-- Lecture Slide #06: Supply, Demand, and Government Policies
+- [Lecture Slide #06](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch06.pptx): Supply, Demand, and Government Policies
 - Lecture Slide #07: Consumers, Producers, and the Efficiency of Markets
-- Lecture Slide #08: Externalities
-- Lecture Slide #09: Public Goods and Common Resources
-- Lecture Slide #10: The Costs of Production
-- Lecture Slide #11: Firms in Competitive Markets
-- Lecture Slide #12: Market Structures
+- Lecture Slide #08: Applications: Market Analysis
+- Lecture Slide #09: Externalities
+- Lecture Slide #10: Public Goods and Common Resources
+- Lecture Slide #11: Applications: Public Economics
+- Lecture Slide #12: The Costs of Production
+- Lecture Slide #13: Firms in Competitive Markets
+- Lecture Slide #14: Market Structures and Competition
 
 ## Problem Sets
 - Problem Set #1 (Slide 1-3)

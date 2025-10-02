@@ -23,4 +23,3 @@ The following is a selection of my research projects.
 - Pop Culture and Discouraged Parents (with S. Lee)
 - The Insidious Risk of Dropping Standards
 - The Crisis of Higher Education and its Impact on the Local Economy
-  - GitHub (Placeholder: To be uploaded by Dec. 1st, 2024)
