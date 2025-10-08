@@ -20,20 +20,28 @@ header:
 - [Lecture Slide #04](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch04.pptx): The Market Forces of Supply and Demand
 - [Lecture Slide #05](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch05.pptx): Elasticity and its Application
 - [Lecture Slide #06](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch06.pptx): Supply, Demand, and Government Policies
-- Lecture Slide #07: Consumers, Producers, and the Efficiency of Markets
-- Lecture Slide #08: Applications: Market Analysis
-- Lecture Slide #09: Externalities
-- Lecture Slide #10: Public Goods and Common Resources
-- Lecture Slide #11: Applications: Public Economics
-- Lecture Slide #12: The Costs of Production
-- Lecture Slide #13: Firms in Competitive Markets
-- Lecture Slide #14: Market Structures and Competition
+- [Lecture Slide #07](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch07.pptx): Consumers, Producers, and the Efficiency of Markets
+- [Lecture Slide #08](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch08.pptx): Applications: The Costs of Taxation
+- Lecture Slide #09: Applications: International Trade
+- Lecture Slide #10: Externalities
+- Lecture Slide #11: Public Goods and Common Resources
+- Lecture Slide #12: Applications: Public Economics
+- Lecture Slide #13: The Costs of Production
+- Lecture Slide #14: Firms in Competitive Markets
+- Lecture Slide #15: Market Structures and Competition
 
 ## Problem Sets
-- Problem Set #1 (Slide 1-3)
+- Problem Set #1 (Chapters 1-3)
   - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS01.pdf)
   - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS01-sol.pdf)
-- Problem Set #2 (Slide 4-6)
+- Problem Set #2 (Chapters 4-6)
+  - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS02.pdf)
+  - Solutions: Fall 2025 (Placeholder)
+- Problem Set #3 (Chapters 7-9)
+  - Booklet: Fall 2025 (Placeholder)
+  - Solutions: Fall 2025 (Placeholder)
 
 ## Quizzes
-- Quiz #1 (Placeholder)
+- Quiz #1
+  - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-quiz/BUS201-F2025-Q01.pdf)
+  - Solutions: Fall 2025 (Placeholder)

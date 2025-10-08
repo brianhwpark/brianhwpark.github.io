@@ -18,17 +18,21 @@ header:
 - [Lecture Slide #02](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch02.pptx): Global E-business and Collaboration
 - [Lecture Slide #03](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch03.pptx): Information Systems, Organizations, and Strategy
 - [Lecture Slide #04](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch04.pptx): Ethical and Social Issues in Information Systems
-- Lecture Slide #05: IT Infrastructure and Emerging Technologies
+- [Lecture Slide #05](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch05.pptx): IT Infrastructure and Emerging Technologies
 - Lecture Slide #06: Foundations of Business Intelligence
 - Lecture Slide #07: Telecommunications, the Internet, and Wireless Technology
 - Lecture Slide #08: Securing Information Systems
 
 ## Problem Sets
-- Problem Set #1 (Slide 1 and 2)
+- Problem Set #1 (Chapters 1 & 2)
   - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-busn-315/busn-315-problem-set/f2025/BUSN315-F2025-PS01.pdf)
   - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-busn-315/busn-315-problem-set/f2025/BUSN315-F2025-PS01-sol.pdf)
-- Problem Set #2 (Slide 3 and 4)
-
+- Problem Set #2 (Chapters 3 & 4)
+  - Booklet: Fall 2025 (Placeholder)
+  - Solutions: Fall 2025 (Placeholder)
+- Problem Set #3 (Chapters 5 & 6)
+  - Booklet: Fall 2025 (Placeholder)
+  - Solutions: Fall 2025 (Placeholder)
 
 ## Quizzes
 - Quiz #1 (Placeholder)
