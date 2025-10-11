@@ -22,7 +22,7 @@ header:
 - [Lecture Slide #06](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch06.pptx): Supply, Demand, and Government Policies
 - [Lecture Slide #07](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch07.pptx): Consumers, Producers, and the Efficiency of Markets
 - [Lecture Slide #08](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch08.pptx): Applications: The Costs of Taxation
-- Lecture Slide #09: Applications: International Trade
+- [Lecture Slide #09](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch09.pptx): Applications: International Trade
 - Lecture Slide #10: Externalities
 - Lecture Slide #11: Public Goods and Common Resources
 - Lecture Slide #12: Applications: Public Economics
