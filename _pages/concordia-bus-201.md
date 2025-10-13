@@ -23,7 +23,7 @@ header:
 - [Lecture Slide #07](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch07.pptx): Consumers, Producers, and the Efficiency of Markets
 - [Lecture Slide #08](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch08.pptx): Applications: The Costs of Taxation
 - [Lecture Slide #09](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch09.pptx): Applications: International Trade
-- Lecture Slide #10: Externalities
+- [Lecture Slide #10](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch10.pptx): Externalities
 - Lecture Slide #11: Public Goods and Common Resources
 - Lecture Slide #12: Applications: Public Economics
 - Lecture Slide #13: The Costs of Production
@@ -36,8 +36,11 @@ header:
   - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS01-sol.pdf)
 - Problem Set #2 (Chapters 4-6)
   - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS02.pdf)
-  - Solutions: Fall 2025 (Placeholder)
+  - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS02-sol.pdf)
 - Problem Set #3 (Chapters 7-9)
+  - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS03.pdf)
+  - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS03-sol.pdf)
+- Problem Set #4 (Chapters 10-12)
   - Booklet: Fall 2025 (Placeholder)
   - Solutions: Fall 2025 (Placeholder)
 

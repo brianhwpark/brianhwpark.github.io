@@ -28,11 +28,13 @@ header:
   - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-busn-315/busn-315-problem-set/f2025/BUSN315-F2025-PS01.pdf)
   - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-busn-315/busn-315-problem-set/f2025/BUSN315-F2025-PS01-sol.pdf)
 - Problem Set #2 (Chapters 3 & 4)
-  - Booklet: Fall 2025 (Placeholder)
+  - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-busn-315/busn-315-problem-set/f2025/BUSN315-F2025-PS02.pdf)
   - Solutions: Fall 2025 (Placeholder)
 - Problem Set #3 (Chapters 5 & 6)
   - Booklet: Fall 2025 (Placeholder)
   - Solutions: Fall 2025 (Placeholder)
 
 ## Quizzes
-- Quiz #1 (Placeholder)
+- Quiz #1
+  - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q01.pdf)
+  - Solutions: Fall 2025 (Placeholder)
