@@ -47,4 +47,7 @@ header:
 ## Quizzes
 - Quiz #1
   - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-quiz/BUS201-F2025-Q01.pdf)
+  - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-quiz/BUS201-F2025-Q01-sol.pdf)
+- Quiz #2
+  - Booklet: Fall 2025 (Placeholder)
   - Solutions: Fall 2025 (Placeholder)

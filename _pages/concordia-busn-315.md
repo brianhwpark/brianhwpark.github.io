@@ -37,4 +37,4 @@ header:
 ## Quizzes
 - Quiz #1
   - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q01.pdf)
-  - Solutions: Fall 2025 (Placeholder)
+  - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q01-sol.pdf)
