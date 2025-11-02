@@ -24,11 +24,13 @@ header:
 - [Lecture Slide #08](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch08.pptx): Applications: The Costs of Taxation
 - [Lecture Slide #09](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch09.pptx): Applications: International Trade
 - [Lecture Slide #10](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch10.pptx): Externalities
-- Lecture Slide #11: Public Goods and Common Resources
-- Lecture Slide #12: Applications: Public Economics
-- Lecture Slide #13: The Costs of Production
-- Lecture Slide #14: Firms in Competitive Markets
-- Lecture Slide #15: Market Structures and Competition
+- [Lecture Slide #11](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch11.pptx): Public Goods and Common Resources
+- Lecture Slide #14: The Costs of Production
+- Lecture Slide #15: Firms in Competitive Markets
+- Lecture Slide #16: Market Structures and Competition
+- Lecture Slide #24: Measuring a Nation's Income
+- Lecture Slide #25: Measuring the Cost of Living
+- Lecture Slide #29: Unemployment
 
 ## Problem Sets
 - Problem Set #1 (Chapters 1-3)
@@ -40,7 +42,7 @@ header:
 - Problem Set #3 (Chapters 7-9)
   - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS03.pdf)
   - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS03-sol.pdf)
-- Problem Set #4 (Chapters 10-12)
+- Problem Set #4 (Chapters 10-13)
   - Booklet: Fall 2025 (Placeholder)
   - Solutions: Fall 2025 (Placeholder)
 
@@ -49,5 +51,5 @@ header:
   - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-quiz/BUS201-F2025-Q01.pdf)
   - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-quiz/BUS201-F2025-Q01-sol.pdf)
 - Quiz #2
-  - Booklet: Fall 2025 (Placeholder)
+  - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-quiz/BUS201-F2025-Q02.pdf)
   - Solutions: Fall 2025 (Placeholder)

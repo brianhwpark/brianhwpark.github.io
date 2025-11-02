@@ -19,8 +19,8 @@ header:
 - [Lecture Slide #03](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch03.pptx): Information Systems, Organizations, and Strategy
 - [Lecture Slide #04](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch04.pptx): Ethical and Social Issues in Information Systems
 - [Lecture Slide #05](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch05.pptx): IT Infrastructure and Emerging Technologies
-- Lecture Slide #06: Foundations of Business Intelligence
-- Lecture Slide #07: Telecommunications, the Internet, and Wireless Technology
+- [Lecture Slide #06](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch06.pptx): Foundations of Business Intelligence
+- [Lecture Slide #07](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch07.pptx): Telecommunications, the Internet, and Wireless Technology
 - Lecture Slide #08: Securing Information Systems
 
 ## Problem Sets
@@ -38,3 +38,6 @@ header:
 - Quiz #1
   - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q01.pdf)
   - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q01-sol.pdf)
+- Quiz #2
+  - Booklet: Fall 2025 ([Section #1](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q02-S01.pdf), [Section #2](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q02-S02.pdf))
+  - Solutions: Fall 2025 (Section #1, Section #2)
