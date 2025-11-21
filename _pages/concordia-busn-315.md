@@ -21,7 +21,8 @@ header:
 - [Lecture Slide #05](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch05.pptx): IT Infrastructure and Emerging Technologies
 - [Lecture Slide #06](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch06.pptx): Foundations of Business Intelligence
 - [Lecture Slide #07](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch07.pptx): Telecommunications, the Internet, and Wireless Technology
-- Lecture Slide #08: Securing Information Systems
+- [Lecture Slide #08](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch08.pptx): Securing Information Systems
+- Lecture Slide #09: Enterprise Applications
 
 ## Problem Sets
 - Problem Set #1 (Chapters 1 & 2)
@@ -39,5 +40,8 @@ header:
   - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q01.pdf)
   - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q01-sol.pdf)
 - Quiz #2
-  - Booklet: Fall 2025 ([Section #1](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q02-S01.pdf), [Section #2](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q02-S02.pdf))
-  - Solutions: Fall 2025 (Section #1, Section #2)
+  - Booklet: Fall 2025([Section #1](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q02-S01.pdf), [Section #2](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q02-S02.pdf))
+  - Solutions: Fall 2025([Section #1](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q02-S01-sol.pdf), [Section #2](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q02-S02-sol.pdf))
+- Quiz #3
+  - Booklet: Fall 2025([Section #1](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q03-S01-sol.pdf), [Section #2](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/BUSN315-F2025-Q03-S02-sol.pdf))
+  - Solutions: Fall 2025

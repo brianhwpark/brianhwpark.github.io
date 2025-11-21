@@ -25,12 +25,15 @@ header:
 - [Lecture Slide #09](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch09.pptx): Applications: International Trade
 - [Lecture Slide #10](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch10.pptx): Externalities
 - [Lecture Slide #11](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch11.pptx): Public Goods and Common Resources
-- Lecture Slide #14: The Costs of Production
-- Lecture Slide #15: Firms in Competitive Markets
-- Lecture Slide #16: Market Structures and Competition
+- [Lecture Slide #14](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch14.pptx): The Costs of Production
+- [Lecture Slide #15](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch15.pptx): Firms in Competitive Markets
+- [Lecture Slide #16](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch16.pptx): Monopoly
+- [Lecture Slide #17-18](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch16.pptx): Imperfect Competition
+- [Lecture Slide #21](/files/teaching-resources/concordiacollege-bus-201/bus-201-lecture-note/bus201-ch21.pptx): Inequality
 - Lecture Slide #24: Measuring a Nation's Income
 - Lecture Slide #25: Measuring the Cost of Living
 - Lecture Slide #29: Unemployment
+- Lecture Slide #30-31: The Monetary System and Inflation
 
 ## Problem Sets
 - Problem Set #1 (Chapters 1-3)
@@ -42,7 +45,10 @@ header:
 - Problem Set #3 (Chapters 7-9)
   - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS03.pdf)
   - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS03-sol.pdf)
-- Problem Set #4 (Chapters 10-13)
+- Problem Set #4 (Chapters 10 & 11)
+  - Booklet: Fall 2025 (Placeholder)
+  - Solutions: Fall 2025 (Placeholder)
+- Problem Set #5 (Chapters 14-17)
   - Booklet: Fall 2025 (Placeholder)
   - Solutions: Fall 2025 (Placeholder)
 
@@ -52,4 +58,7 @@ header:
   - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-quiz/BUS201-F2025-Q01-sol.pdf)
 - Quiz #2
   - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-quiz/BUS201-F2025-Q02.pdf)
+  - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-quiz/BUS201-F2025-Q02-sol.pdf)
+- Quiz #3
+  - Booklet: Fall 2025 (Placeholder)
   - Solutions: Fall 2025 (Placeholder)
