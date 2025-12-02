@@ -22,7 +22,10 @@ header:
 - [Lecture Slide #06](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch06.pptx): Foundations of Business Intelligence
 - [Lecture Slide #07](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch07.pptx): Telecommunications, the Internet, and Wireless Technology
 - [Lecture Slide #08](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch08.pptx): Securing Information Systems
-- Lecture Slide #09: Enterprise Applications
+- [Lecture Slide #09](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch09.pptx): Enterprise Applications
+- Lecture Slide #10: E-Commerce
+- Lecture Slide #11: Artificial Intelligence
+- Lecture Slide #12: Business Intelligence
 
 ## Problem Sets
 - Problem Set #1 (Chapters 1 & 2)
@@ -32,6 +35,15 @@ header:
   - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-busn-315/busn-315-problem-set/f2025/BUSN315-F2025-PS02.pdf)
   - Solutions: Fall 2025 (Placeholder)
 - Problem Set #3 (Chapters 5 & 6)
+  - Booklet: Fall 2025 (Placeholder)
+  - Solutions: Fall 2025 (Placeholder)
+- Problem Set #4 (Chapters 7 & 8)
+  - Booklet: Fall 2025 (Placeholder)
+  - Solutions: Fall 2025 (Placeholder)
+- Problem Set #5 (Chapters 9 & 10)
+  - Booklet: Fall 2025 (Placeholder)
+  - Solutions: Fall 2025 (Placeholder)
+- Problem Set #6 (Chapters 11 & 12)
   - Booklet: Fall 2025 (Placeholder)
   - Solutions: Fall 2025 (Placeholder)
 
