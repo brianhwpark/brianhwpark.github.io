@@ -11,6 +11,7 @@ header:
 
 ## Syllabus
 - [Fall 2025](/files/teaching-resources/concordiacollege-busn-315/busn-315-syllabus/BUSN315-F2025-Syllabus.pdf)
+- Spring 2026 (Placeholder)
 
 ## Lecture Slides
 - [Lecture Slide #00](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch00.pptx): Introduction
@@ -24,7 +25,7 @@ header:
 - [Lecture Slide #08](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch08.pptx): Securing Information Systems
 - [Lecture Slide #09](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch09.pptx): Enterprise Applications
 - Lecture Slide #10: E-Commerce
-- Lecture Slide #11: Artificial Intelligence
+- [Lecture Slide #11](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch11.pptx): Artificial Intelligence
 - Lecture Slide #12: Business Intelligence
 
 ## Problem Sets

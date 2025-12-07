@@ -11,3 +11,9 @@ header:
 
 ## Syllabus
 - Spring 2026 (Placeholder)
+
+## Lecture Slides
+- Lecture Slide #00 (Placeholder)
+
+## Problem Sets
+- Problem Set #1 (Placeholder)
