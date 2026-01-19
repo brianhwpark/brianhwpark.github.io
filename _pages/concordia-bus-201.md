@@ -58,5 +58,5 @@ header:
   - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS07.pdf)
   - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS07-sol.pdf)
 - Problem Set #8 (Chapters 29 & 30)
-  - Booklet: Fall 2025 (Placeholder)
-  - Solutions: Fall 2025 (Placeholder)
+  - Booklet: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS08.pdf)
+  - Solutions: [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-problem-set/f2025/BUS201-F2025-PS08-sol.pdf)

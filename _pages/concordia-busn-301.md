@@ -10,10 +10,11 @@ header:
 ---
 
 ## Syllabus
-- Spring 2026 (Placeholder)
+- [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-315-syllabus/BUSN301-S2026-Syllabus.pdf)
 
 ## Lecture Slides
-- Lecture Slide #00 (Placeholder)
+- [Lecture Slide #01](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch01.pptx): Introduction & Math Review
+- [Lecture Slide #02](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch02.pptx): The Budget Constraint
 
 ## Problem Sets
-- Problem Set #1 (Placeholder)
+- Problem Set #00 (Placeholder)
