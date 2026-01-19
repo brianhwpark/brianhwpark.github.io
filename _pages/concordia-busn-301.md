@@ -15,6 +15,8 @@ header:
 ## Lecture Slides
 - [Lecture Slide #01](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch01.pptx): Introduction & Math Review
 - [Lecture Slide #02](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch02.pptx): The Budget Constraint
+- [Lecture Slide #03](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch03.pptx): Preference Relations
+- Lecture Slide #04: Utility
 
 ## Problem Sets
 - Problem Set #00 (Placeholder)
