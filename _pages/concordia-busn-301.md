@@ -18,7 +18,10 @@ header:
 - [Lecture Slide #03](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch03.pptx): Preferences
 - [Lecture Slide #04](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch04.pptx): Utility
 - [Lecture Slide #05](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch05.pptx): Choice
-- Lecture Slide #06: Demand
+- [Lecture Slide #06](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch06.pptx): Demand
+- [Lecture Slide #14](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch14.pptx): Consumer's Surplus
+- [Lecture Slide #15](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch15.pptx): Market Demand
+- Lecture Slide #16: Market Equilibrium
 
 ## Problem Sets
 - Problem Set #0: Math Review
