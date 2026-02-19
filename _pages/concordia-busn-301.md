@@ -21,7 +21,9 @@ header:
 - [Lecture Slide #06](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch06.pptx): Demand
 - [Lecture Slide #14](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch14.pptx): Consumer's Surplus
 - [Lecture Slide #15](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch15.pptx): Market Demand
-- Lecture Slide #16: Market Equilibrium
+- [Lecture Slide #16](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch16.pptx): Equilibrium
+- Lecture Slide #19: Technology
+- Lecture Slide #20: Profit Maximization
 
 ## Problem Sets
 - Problem Set #0: Math Review
@@ -30,6 +32,9 @@ header:
 - Problem Set #1: Chapters 2--5
   - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS01.pdf)
   - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS01-sol.pdf)
+- Problem Set #2: Chapters 6,14,15,16
+  - Booklet: Spring 2026 (Placeholder)
+  - Solutions: Spring 2026 (Placeholder)
 
 ## Quizzes
 - Quiz #1: Chapters 2--5
