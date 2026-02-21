@@ -31,12 +31,15 @@ header:
 ## Problem Sets
 - Problem Set #1 (Chapters 1 & 2)
   - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-problem-set/s2026/BUSN315-S2026-PS01.pdf)
-  - Solutions: Spring 2026 (Placeholder)
+  - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-problem-set/s2026/BUSN315-S2026-PS01-sol.pdf)
 - Problem Set #2 (Chapters 3 & 4)
-  - Booklet: Spring 2026 (Placeholder)
-  - Solutions: Spring 2026 (Placeholder)
+  - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-problem-set/s2026/BUSN315-S2026-PS02.pdf)
+  - Solutions: [Spring 2026]
 
 ## Quizzes
-- Quiz #1
+- Quiz #1 (Chapters 1 & 2)
+  - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/s2026/BUSN315-S2026-Q01.pdf)
+  - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/s2026/BUSN315-S2026-Q01-sol.pdf)
+- Quiz #2 (Chapters 3 & 4)
   - Booklet: Spring 2026 (Placeholder)
-  - Solutions: Spring 2026 (Placeholder)
+  - Solutions Spring 2026 (Placeholder)

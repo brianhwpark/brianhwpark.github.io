@@ -22,8 +22,13 @@ header:
 - [Lecture Slide #14](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch14.pptx): Consumer's Surplus
 - [Lecture Slide #15](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch15.pptx): Market Demand
 - [Lecture Slide #16](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch16.pptx): Equilibrium
-- Lecture Slide #19: Technology
+- [Lecture Slide #19](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch19.pptx): Technology
 - Lecture Slide #20: Profit Maximization
+- Lecture Slide #21: Cost Minimization
+- Lecture Slide #22: Cost Curves
+- Lecture Slide #23: Firm Supply
+- Lecture Slide #24: Industry Supply
+- Lecture Slide #32: Exchange
 
 ## Problem Sets
 - Problem Set #0: Math Review
@@ -33,10 +38,14 @@ header:
   - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS01.pdf)
   - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS01-sol.pdf)
 - Problem Set #2: Chapters 6,14,15,16
+  - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS02.pdf)
+  - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS02-sol.pdf)
+- Problem Set #3: Chapters 19--22
   - Booklet: Spring 2026 (Placeholder)
   - Solutions: Spring 2026 (Placeholder)
 
 ## Quizzes
 - Quiz #1: Chapters 2--5
+  - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-quiz/BUSN301-S2026-Q01.pdf)
+- Quiz #2: Chapters 6,14,15,16
   - Booklet: Spring 2026 (Placeholder)
-  - Solutions: Spring 2026 (Placeholder)
