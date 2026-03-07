@@ -23,8 +23,8 @@ header:
 - [Lecture Slide #15](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch15.pptx): Market Demand
 - [Lecture Slide #16](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch16.pptx): Equilibrium
 - [Lecture Slide #19](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch19.pptx): Technology
-- Lecture Slide #20: Profit Maximization
-- Lecture Slide #21: Cost Minimization
+- [Lecture Slide #20](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch20.pptx): Profit Maximization
+- [Lecture Slide #21](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch21.pptx): Cost Minimization
 - Lecture Slide #22: Cost Curves
 - Lecture Slide #23: Firm Supply
 - Lecture Slide #24: Industry Supply
