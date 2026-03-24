@@ -25,8 +25,8 @@ header:
 - [Lecture Slide #19](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch19.pptx): Technology
 - [Lecture Slide #20](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch20.pptx): Profit Maximization
 - [Lecture Slide #21](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch21.pptx): Cost Minimization
-- Lecture Slide #22: Cost Curves
-- Lecture Slide #23: Firm Supply
+- [Lecture Slide #22](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch22.pptx): Cost Curves
+- [Lecture Slide #23](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch23.pptx): Firm Supply
 - Lecture Slide #24: Industry Supply
 - Lecture Slide #32: Exchange
 
@@ -40,12 +40,17 @@ header:
 - Problem Set #2: Chapters 6,14,15,16
   - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS02.pdf)
   - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS02-sol.pdf)
-- Problem Set #3: Chapters 19--22
+- Problem Set #3: Chapters 19--24
   - Booklet: Spring 2026 (Placeholder)
   - Solutions: Spring 2026 (Placeholder)
 
 ## Quizzes
 - Quiz #1: Chapters 2--5
   - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-quiz/BUSN301-S2026-Q01.pdf)
+  - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-quiz/BUSN301-S2026-Q01-sol.pdf)
 - Quiz #2: Chapters 6,14,15,16
+  - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-quiz/BUSN301-S2026-Q02.pdf)
+  - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-quiz/BUSN301-S2026-Q02-sol.pdf)
+- Quiz #3: Chapters 19--24
   - Booklet: Spring 2026 (Placeholder)
+  - Solutions: Spring 2026 (Placeholder)
