@@ -24,7 +24,7 @@ header:
 - [Lecture Slide #07](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch07.pptx): Telecommunications, the Internet, and Wireless Technology
 - [Lecture Slide #08](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch08.pptx): Securing Information Systems
 - [Lecture Slide #09](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch09.pptx): Enterprise Applications
-- Lecture Slide #11: 
+- Lecture Slide #11: Artificial Intelligence
 
 ## Problem Sets
 - Problem Set #1 (Chapters 1 & 2)
@@ -49,7 +49,10 @@ header:
   - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/s2026/BUSN315-S2026-Q01-sol.pdf)
 - Quiz #2 (Chapters 3 & 4)
   - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/s2026/BUSN315-S2026-Q02.pdf)
-  - Solutions [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/s2026/BUSN315-S2026-Q02-sol.pdf)
+  - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/s2026/BUSN315-S2026-Q02-sol.pdf)
 - Quiz #3 (Chapters 5 & 6)
-  - Booklet: [Spring 2026] (Placeholder)
-  - Solutions [Spring 2026] (Placeholder)
+  - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/s2026/BUSN315-S2026-Q03.pdf)
+  - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/s2026/BUSN315-S2026-Q03-sol.pdf)
+- Quiz #4 (Chapters 7 & 8)
+  - Booklet: Spring 2026 (Placeholder)
+  - Solutions: Spring 2026 (Placeholder)
