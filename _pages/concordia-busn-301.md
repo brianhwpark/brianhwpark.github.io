@@ -28,7 +28,9 @@ header:
 - [Lecture Slide #22](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch22.pptx): Cost Curves
 - [Lecture Slide #23](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch23.pptx): Firm Supply
 - [Lecture Slide #24](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch24.pptx): Industry Supply
-- Lecture Slide #32: Exchange
+- [Lecture Slide #32](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch32.pptx): Exchange
+- [Lecture Slide #33](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch33.pptx): Production
+- Lecture Slide #34: Welfare
 
 ## Problem Sets
 - Problem Set #0: Math Review
@@ -42,7 +44,7 @@ header:
   - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS02-sol.pdf)
 - Problem Set #3: Chapters 19--24
   - Booklet: Spring 2026: [#1](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS03-optional.pdf), [#2](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS03.pdf)
-  - Solutions: Spring 2026: [#1](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS03-optional-sol.pdf)
+  - Solutions: Spring 2026: [#1](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS03-optional-sol.pdf), [#2](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS03-sol.pdf)
 
 ## Quizzes
 - Quiz #1: Chapters 2--5
@@ -52,5 +54,13 @@ header:
   - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-quiz/BUSN301-S2026-Q02.pdf)
   - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-quiz/BUSN301-S2026-Q02-sol.pdf)
 - Quiz #3: Chapters 19--24
+  - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-quiz/BUSN301-S2026-Q03.pdf)
+  - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-quiz/BUSN301-S2026-Q03-sol.pdf)
+
+## Final Exam
+- Practice Final Exam
+  - Booklet: Spring 2026 (Placeholder)
+  - Solutions: Spring 2026 (Placeholder)
+- Final Exam
   - Booklet: Spring 2026 (Placeholder)
   - Solutions: Spring 2026 (Placeholder)

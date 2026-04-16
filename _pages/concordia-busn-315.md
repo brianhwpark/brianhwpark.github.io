@@ -24,7 +24,7 @@ header:
 - [Lecture Slide #07](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch07.pptx): Telecommunications, the Internet, and Wireless Technology
 - [Lecture Slide #08](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch08.pptx): Securing Information Systems
 - [Lecture Slide #09](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch09.pptx): Enterprise Applications
-- Lecture Slide #11: Artificial Intelligence
+- [Lecture Slide #11](/files/teaching-resources/concordiacollege-busn-315/busn-315-lecture-note/busn315-ch11.pptx): Artificial Intelligence
 
 ## Problem Sets
 - Problem Set #1 (Chapters 1 & 2)
@@ -37,11 +37,8 @@ header:
   - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-problem-set/s2026/BUSN315-S2026-PS03.pdf)
   - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-problem-set/s2026/BUSN315-S2026-PS03-sol.pdf)
 - Problem Set #4 (Chapters 7 & 8)
-  - Booklet: Spring 2026 (Placeholder)
-  - Solutions: Spring 2026 (Placeholder)
-- Problem Set #5 (Chapters 9 & 11)
-  - Booklet: Spring 2026 (Placeholder)
-  - Solutions: Spring 2026 (Placeholder)
+  - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-problem-set/s2026/BUSN315-S2026-PS04.pdf)
+  - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-problem-set/s2026/BUSN315-S2026-PS04-sol.pdf)
 
 ## Quizzes
 - Quiz #1 (Chapters 1 & 2)
@@ -54,5 +51,5 @@ header:
   - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/s2026/BUSN315-S2026-Q03.pdf)
   - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/s2026/BUSN315-S2026-Q03-sol.pdf)
 - Quiz #4 (Chapters 7 & 8)
-  - Booklet: Spring 2026 (Placeholder)
-  - Solutions: Spring 2026 (Placeholder)
+  - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/s2026/BUSN315-S2026-Q04.pdf)
+  - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-315/busn-315-quiz/s2026/BUSN315-S2026-Q04-sol.pdf)
