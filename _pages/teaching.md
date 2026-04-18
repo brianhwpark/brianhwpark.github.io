@@ -14,6 +14,8 @@ You may schedule in-person office hours through [Calendly](https://calendly.com/
 - [BUS 201](/concordia-bus-201): Principles of Global Economics
 - [BUSN 301](/concordia-busn-301): Intermediate Microeconomic Theory
 - [BUSN 315](/concordia-busn-315): Management Information Systems
+- [BUSN 320](/concordia-busn-320): Business Statistics
+- DATA 600: Data Analysis and Visualization
 
 ## Monmouth College
 - [ECON 300](/monmouth-econ-300): Intermediate Price Theory

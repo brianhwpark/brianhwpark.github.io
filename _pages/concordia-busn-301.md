@@ -30,7 +30,7 @@ header:
 - [Lecture Slide #24](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch24.pptx): Industry Supply
 - [Lecture Slide #32](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch32.pptx): Exchange
 - [Lecture Slide #33](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch33.pptx): Production
-- Lecture Slide #34: Welfare
+- [Lecture Slide #34](/files/teaching-resources/concordiacollege-busn-301/busn-301-lecture-note/busn301-ch34.pptx): Welfare
 
 ## Problem Sets
 - Problem Set #0: Math Review
@@ -59,7 +59,7 @@ header:
 
 ## Final Exam
 - Practice Final Exam
-  - Booklet: Spring 2026 (Placeholder)
+  - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-final/BUSN301-S2026-Practice.pdf)
   - Solutions: Spring 2026 (Placeholder)
 - Final Exam
   - Booklet: Spring 2026 (Placeholder)
