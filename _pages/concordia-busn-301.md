@@ -45,6 +45,9 @@ header:
 - Problem Set #3: Chapters 19--24
   - Booklet: Spring 2026: [#1](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS03-optional.pdf), [#2](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS03.pdf)
   - Solutions: Spring 2026: [#1](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS03-optional-sol.pdf), [#2](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS03-sol.pdf)
+- Problem Set #4: Chapters 32--34
+  - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS04.pdf)
+  - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-problem-set/BUSN301-S2026-PS04-sol.pdf)
 
 ## Quizzes
 - Quiz #1: Chapters 2--5
@@ -60,7 +63,6 @@ header:
 ## Final Exam
 - Practice Final Exam
   - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-final/BUSN301-S2026-Practice.pdf)
-  - Solutions: Spring 2026 (Placeholder)
+  - Solutions: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-final/BUSN301-S2026-Practice-sol.pdf)
 - Final Exam
-  - Booklet: Spring 2026 (Placeholder)
-  - Solutions: Spring 2026 (Placeholder)
+  - Booklet: [Spring 2026](/files/teaching-resources/concordiacollege-busn-301/busn-301-final/BUSN301-S2026-Final.pdf)
