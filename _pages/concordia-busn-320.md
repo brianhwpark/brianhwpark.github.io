@@ -10,7 +10,7 @@ header:
 ---
 
 ## Syllabus
-- [Fall 2026](/files/teaching-resources/concordiacollege-busn-320/busn-320-syllabus/BUSN320-F2026-TT-Syllabus.pdf)
+- [Fall 2026](/files/teaching-resources/concordiacollege-busn-320/busn-320-syllabus/BUSN320-F2026-MW-Syllabus.pdf)
 
 ## Lecture Slides
 - [Lecture Slide #01](/files/teaching-resources/concordiacollege-busn-320/busn-320-lecture-note/busn320-ch01.pptx): Data and Statistics
