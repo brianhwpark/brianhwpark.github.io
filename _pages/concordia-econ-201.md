@@ -1,5 +1,5 @@
 ---
-permalink: /concordia-bus-201/
+permalink: /concordia-econ-201/
 title: "Principles of Global Economics"
 header: 
   og_image: "teaching/placeholder_teaching.png"
@@ -10,6 +10,7 @@ header:
 ---
 
 ## Syllabus
+- Spring 2026 (Placeholder)
 - [Fall 2025](/files/teaching-resources/concordiacollege-bus-201/bus-201-syllabus/BUS201-F2025-Syllabus.pdf)
 
 ## Lecture Slides

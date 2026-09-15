@@ -19,3 +19,18 @@ header:
 - [Lecture Slide #04](/files/teaching-resources/concordiacollege-busn-320/busn-320-lecture-note/busn320-ch04.pptx): Introduction to Probability
 - [Lecture Slide #05](/files/teaching-resources/concordiacollege-busn-320/busn-320-lecture-note/busn320-ch05.pptx): Discrete Probability Distributions
 - [Lecture Slide #06](/files/teaching-resources/concordiacollege-busn-320/busn-320-lecture-note/busn320-ch06.pptx): Continuous Probability Distributions
+
+## Check-Ins
+- [Check-in #01](/files/teaching-resources/concordiacollege-busn-320/busn-320-check-in/BUSN320-F2026-C01.pdf): Chapter #1
+- [Check-in #02](/files/teaching-resources/concordiacollege-busn-320/busn-320-check-in/BUSN320-F2026-C01.pdf): Chapter #2
+- Check-in #03 (Placeholder)
+
+## Problem Sets
+- Problem Set #1 (Chapters 1--3)
+  - Booklet: Fall 2026 (Placeholder)
+  - Solutions: Fall 2026 (Placeholder)
+
+## Quizzes
+- Quiz #1 (Chapters 1--3)
+  - Booklet: Fall 2026 (Placeholder)
+  - Solutions: Fall 2026 (Placeholder)

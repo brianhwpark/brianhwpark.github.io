@@ -1,5 +1,5 @@
 ---
-permalink: /concordia-busn-301/
+permalink: /concordia-econ-301/
 title: "Intermediate Microeconomic Theory"
 header: 
   og_image: "teaching/placeholder_teaching.png"
