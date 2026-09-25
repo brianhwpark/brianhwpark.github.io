@@ -13,6 +13,7 @@ You may schedule in-person office hours through [Calendly](https://calendly.com/
 ## Concordia College
 - [ECON 201](/concordia-econ-201): Principles of Global Economics
 - [ECON 301](/concordia-econ-301): Intermediate Microeconomic Theory
+- ECON 310: Environmental Economics
 - [BUSN 315](/concordia-busn-315): Management Information Systems
 - [BUSN 320](/concordia-busn-320): Business Statistics
 - DATA 600: Data Analysis and Visualization
