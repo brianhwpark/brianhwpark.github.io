@@ -28,7 +28,11 @@ header:
 - [Check-in #01](/files/teaching-resources/concordiacollege-busn-320/busn-320-check-in/BUSN320-F2026-C01.pdf): Chapter #1
 - [Check-in #02](/files/teaching-resources/concordiacollege-busn-320/busn-320-check-in/BUSN320-F2026-C02.pdf): Chapter #2
 - [Check-in #03](/files/teaching-resources/concordiacollege-busn-320/busn-320-check-in/BUSN320-F2026-C03.pdf): Chapter #3
-- Check-in #04 (Placeholder)
+- [Check-in #04](/files/teaching-resources/concordiacollege-busn-320/busn-320-check-in/BUSN320-F2026-C04.pdf): Chapter #4
+- [Check-in #05](/files/teaching-resources/concordiacollege-busn-320/busn-320-check-in/BUSN320-F2026-C05.pdf): Chapter #5
+- [Check-in #06](/files/teaching-resources/concordiacollege-busn-320/busn-320-check-in/BUSN320-F2026-C06.pdf): Chapter #6
+- [Check-in #07](/files/teaching-resources/concordiacollege-busn-320/busn-320-check-in/BUSN320-F2026-C07.pdf): Chapter #7
+- [Check-in #08](/files/teaching-resources/concordiacollege-busn-320/busn-320-check-in/BUSN320-F2026-C08.pdf): Chapter #8
 
 ## Problem Sets
 - Problem Set #1 (Chapters 1--3)
@@ -38,10 +42,13 @@ header:
   - Booklet: [Fall 2026](/files/teaching-resources/concordiacollege-busn-320/busn-320-problem-set/BUSN320-F2026-PS02.pdf)
   - Solutions: [Fall 2026](/files/teaching-resources/concordiacollege-busn-320/busn-320-problem-set/BUSN320-F2026-PS02-sol.pdf)
 - Problem Set #3 (Chapters 7 & 8)
-  - Booklet: Fall 2026 (Placeholder)
-  - Solutions: Fall 2026 (Placeholder)
+  - Booklet: [Fall 2026](/files/teaching-resources/concordiacollege-busn-320/busn-320-problem-set/BUSN320-F2026-PS03.pdf)
+  - Solutions: [Fall 2026](/files/teaching-resources/concordiacollege-busn-320/busn-320-problem-set/BUSN320-F2026-PS03-sol.pdf)
 
 ## Quizzes
 - Quiz #1 (Chapters 1--3)
+  - Booklet: [Fall 2026](/files/teaching-resources/concordiacollege-busn-320/busn-320-quiz/BUSN320-F2026-Q01.pdf)
+  - Solutions: [Fall 2026](/files/teaching-resources/concordiacollege-busn-320/busn-320-quiz/BUSN320-F2026-Q01-sol.pdf)
+- Quiz #2 (Chapters 4--6)
   - Booklet: Fall 2026 (Placeholder)
   - Solutions: Fall 2026 (Placeholder)
