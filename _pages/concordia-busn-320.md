@@ -19,7 +19,10 @@ header:
 - [Lecture Slide #04](/files/teaching-resources/concordiacollege-busn-320/busn-320-lecture-note/busn320-ch04.pptx): Introduction to Probability
 - [Lecture Slide #05](/files/teaching-resources/concordiacollege-busn-320/busn-320-lecture-note/busn320-ch05.pptx): Discrete Probability Distributions
 - [Lecture Slide #06](/files/teaching-resources/concordiacollege-busn-320/busn-320-lecture-note/busn320-ch06.pptx): Continuous Probability Distributions
-- [Lecture Slide #07](/files/teaching-resources/concordiacollege-busn-320/busn-320-lecture-note/busn320-ch07.pptx): Sampling Distributions
+- [Lecture Slide #07](/files/teaching-resources/concordiacollege-busn-320/busn-320-lecture-note/busn320-ch07.pptx): Sampling and Sampling Distributions
+- [Lecture Slide #08](/files/teaching-resources/concordiacollege-busn-320/busn-320-lecture-note/busn320-ch08.pptx): Interval Estimation
+- Lecture Slide #09: Hypothesis Tests
+- Lecutre Slide #10: Inference with Two Populations
 
 ## Check-Ins
 - [Check-in #01](/files/teaching-resources/concordiacollege-busn-320/busn-320-check-in/BUSN320-F2026-C01.pdf): Chapter #1
@@ -32,6 +35,9 @@ header:
   - Booklet: [Fall 2026](/files/teaching-resources/concordiacollege-busn-320/busn-320-problem-set/BUSN320-F2026-PS01.pdf)
   - Solutions: [Fall 2026](/files/teaching-resources/concordiacollege-busn-320/busn-320-problem-set/BUSN320-F2026-PS01-sol.pdf)
 - Problem Set #2 (Chapters 4--6)
+  - Booklet: [Fall 2026](/files/teaching-resources/concordiacollege-busn-320/busn-320-problem-set/BUSN320-F2026-PS02.pdf)
+  - Solutions: [Fall 2026](/files/teaching-resources/concordiacollege-busn-320/busn-320-problem-set/BUSN320-F2026-PS02-sol.pdf)
+- Problem Set #3 (Chapters 7 & 8)
   - Booklet: Fall 2026 (Placeholder)
   - Solutions: Fall 2026 (Placeholder)
 
